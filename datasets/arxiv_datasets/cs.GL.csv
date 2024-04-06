@@ -1,0 +1,1631 @@
+Title,ID,Published,Updated,Summary,Author,Comments,Journal_Ref,Link,Primary_Category,Categories,DOI,License,Affiliation
+Data Science from 1963 to 2012,http://arxiv.org/abs/2311.03292v2,2023-11-06T17:35:35Z,2023-11-07T12:58:38Z,"  Consensus on the definition of data science remains low despite the
+widespread establishment of academic programs in the field and continued demand
+for data scientists in industry. Definitions range from rebranded statistics to
+data-driven science to the science of data to simply the application of machine
+learning to so-called big data to solve real-world problems. Current efforts to
+trace the history of the field in order to clarify its definition, such as
+Donoho's ""50 Years of Data Science"" (Donoho 2017), tend to focus on a short
+period when a small group of statisticians adopted the term in an unsuccessful
+attempt to rebrand their field in the face of the overshadowing effects of
+computational statistics and data mining. Using textual evidence from primary
+sources, this essay traces the history of the term to the 1960s, when it was
+first used by the US Air Force in a surprisingly similar way to its current
+usage, to 2012, the year that Harvard Business Review published the enormously
+influential article ""Data Scientist: The Sexiest Job of the 21st Century""
+(Davenport and Patil 2012), while the American Statistical Association
+acknowledged a profound disconnect between statistics and data science. Among
+the themes that emerge from this review are (1) the long-standing opposition
+between data analysts and data miners that continues to animate the field, (2)
+an established definition of the term as the practice of managing and
+processing scientific data that has been occluded by recent usage, and (3) the
+phenomenon of data impedance -- the disproportion between surplus data, indexed
+by phrases like data deluge and big data, and the limitations of computational
+machinery and methods to process them. This persistent condition appears to
+have motivated the use of the term and the field itself since its beginnings.
+",['\nRafael C. Alvarado\n'],48 pages,,http://arxiv.org/abs/2311.03292v2,cs.GL,"['cs.GL', 'cs.DL', 'K.2']",,,[]
+"Computational Natural Philosophy: A Thread from Presocratics through
+  Turing to ChatGPT",http://arxiv.org/abs/2309.13094v1,2023-09-22T11:47:36Z,2023-09-22T11:47:36Z,"  Modern computational natural philosophy conceptualizes the universe in terms
+of information and computation, establishing a framework for the study of
+cognition and intelligence. Despite some critiques, this computational
+perspective has significantly influenced our understanding of the natural
+world, leading to the development of AI systems like ChatGPT based on deep
+neural networks. Advancements in this domain have been facilitated by
+interdisciplinary research, integrating knowledge from multiple fields to
+simulate complex systems. Large Language Models (LLMs), such as ChatGPT,
+represent this approach's capabilities, utilizing reinforcement learning with
+human feedback (RLHF). Current research initiatives aim to integrate neural
+networks with symbolic computing, introducing a new generation of hybrid
+computational models.
+",['\nGordana Dodig-Crnkovic\n'],17 pages,,http://arxiv.org/abs/2309.13094v1,cs.GL,"['cs.GL', 'cs.AI']",,,[]
+The History of Quantum Games,http://arxiv.org/abs/2309.01525v1,2023-09-04T11:10:58Z,2023-09-04T11:10:58Z,"  In this paper, we explore the historical development of playable quantum
+physics related games (\textit{\textbf{quantum games}}). For the purpose of
+this examination, we have collected over 260 quantum games ranging from
+commercial games, applied and serious games, and games that have been developed
+at quantum themed game jams and educational courses. We provide an overview of
+the journey of quantum games across three dimensions: \textit{the perceivable
+dimension of quantum physics, the dimension of scientific purposes, and the
+dimension of quantum technologies}. We then further reflect on the definition
+of quantum games and its implications. While motivations behind developing
+quantum games have typically been educational or academic, themes related to
+quantum physics have begun to be more broadly utilised across a range of
+commercial games. In addition, as the availability of quantum computer hardware
+has grown, entirely new variants of quantum games have emerged to take
+advantage of these machines' inherent capabilities, \textit{quantum computer
+games}
+","['\nLaura Piispanen\n', '\nEdward Morrell\n', '\nSolip Park\n', '\nMarcell Pfaffhauser\n', '\nAnnakaisa Kultima\n']","8 pages, from which 1.5 pages of references, 11 figures, one table,
+  presented in the IEEE Conference on Games 2023",,http://arxiv.org/abs/2309.01525v1,cs.GL,"['cs.GL', 'quant-ph']",,,[]
+AI empowering research: 10 ways how science can benefit from AI,http://arxiv.org/abs/2307.10265v1,2023-07-17T18:41:18Z,2023-07-17T18:41:18Z,"  This article explores the transformative impact of artificial intelligence
+(AI) on scientific research. It highlights ten ways in which AI is
+revolutionizing the work of scientists, including powerful referencing tools,
+improved understanding of research problems, enhanced research question
+generation, optimized research design, stub data generation, data
+transformation, advanced data analysis, and AI-assisted reporting. While AI
+offers numerous benefits, challenges such as bias, privacy concerns, and the
+need for human-AI collaboration must be considered. The article emphasizes that
+AI can augment human creativity in science but not replace it.
+",['\nCésar França\n'],,,http://arxiv.org/abs/2307.10265v1,cs.GL,"['cs.GL', 'cs.AI']",,,[]
+ChatGPT believes it is conscious,http://arxiv.org/abs/2304.12898v1,2023-03-29T13:15:45Z,2023-03-29T13:15:45Z,"  The development of advanced generative chat models, such as ChatGPT, has
+raised questions about the potential consciousness of these tools and the
+extent of their general artificial intelligence. ChatGPT consistent avoidance
+of passing the test is here overcome by asking ChatGPT to apply the Turing test
+to itself. This explores the possibility of the model recognizing its own
+sentience. In its own eyes, it passes this test. ChatGPT's self-assessment
+makes serious implications about our understanding of the Turing test and the
+nature of consciousness. This investigation concludes by considering the
+existence of distinct types of consciousness and the possibility that the
+Turing test is only effective when applied between consciousnesses of the same
+kind. This study also raises intriguing questions about the nature of AI
+consciousness and the validity of the Turing test as a means of verifying such
+consciousness.
+",['\nArend Hintze\n'],,,http://arxiv.org/abs/2304.12898v1,cs.GL,['cs.GL'],,,[]
+The First Computer Program,http://arxiv.org/abs/2303.13740v1,2023-03-24T01:46:27Z,2023-03-24T01:46:27Z,"  In 1837, the first computer program in history was sketched by the renowned
+mathematician and inventor Charles Babbage. It was a program for the Analytical
+Engine. The program consists of a sequence of arithmetical operations and the
+necessary variable addresses (memory locations) of the arguments and the
+result, displayed in tabular fashion, like a program trace. The program
+computes the solutions for a system of two linear equations in two unknowns.
+",['\nRaúl Rojas\n'],"8 pages, 4 tables",,http://arxiv.org/abs/2303.13740v1,cs.GL,"['cs.GL', 'D.0; K.2']",,,[]
+Heckerthoughts,http://arxiv.org/abs/2302.05449v5,2023-02-13T14:42:15Z,2024-01-07T15:47:36Z,"  This manuscript is technical memoir about my work at Stanford and Microsoft
+Research. Included are fundamental concepts central to machine learning and
+artificial intelligence, applications of these concepts, and stories behind
+their creation.
+",['\nDavid Heckerman\n'],"Fixed typos around Equation 1 (thank you Xinlong Du), and added a
+  philosophical note at the end of Section 3.5 about the perception that
+  consciousness is unitary",,http://arxiv.org/abs/2302.05449v5,cs.AI,"['cs.AI', 'cs.GL', '68T01', 'I.2.0']",,,[]
+"Automation and AI Technology in Surface Mining With a Brief Introduction
+  to Open-Pit Operations in the Pilbara",http://arxiv.org/abs/2301.09771v5,2023-01-24T00:57:37Z,2023-10-16T01:57:25Z,"  This survey article provides a synopsis on some of the engineering problems,
+technological innovations, robotic development and automation efforts
+encountered in the mining industry -- particularly in the Pilbara iron-ore
+region of Western Australia. The goal is to paint the technology landscape and
+highlight issues relevant to an engineering audience to raise awareness of AI
+and automation trends in mining. It assumes the reader has no prior knowledge
+of mining and builds context gradually through focused discussion and short
+summaries of common open-pit mining operations. The principal activities that
+take place may be categorized in terms of resource development, mine-, rail-
+and port operations. From mineral exploration to ore shipment, there are
+roughly nine steps in between. These include: geological assessment, mine
+planning and development, production drilling and assaying, blasting and
+excavation, transportation of ore and waste, crush and screen, stockpile and
+load-out, rail network distribution, and ore-car dumping. The objective is to
+describe these processes and provide insights on some of the
+challenges/opportunities from the perspective of a decade-long
+industry-university R&D partnership.
+","['\nRaymond Leung\n', '\nAndrew J Hill\n', '\nArman Melkumyan\n']","Accepted manuscript. Paper provides insights on state-of-the-art
+  technologies and future trends. Keywords: Mining automation, robotics,
+  intelligent systems, machine learning, remote sensing, geostatistics,
+  planning, scheduling, optimization, modelling, geology, complex systems.
+  Document: 20 pages, 5 figures, 2 tables",IEEE Robotics & Automation Magazine (2023),http://dx.doi.org/10.1109/MRA.2023.3328457,cs.CY,"['cs.CY', 'cs.GL']",10.1109/MRA.2023.3328457,,[]
+"Charles Babbage, Ada Lovelace, and the Bernoulli Numbers",http://arxiv.org/abs/2301.02919v1,2023-01-07T18:55:04Z,2023-01-07T18:55:04Z,"  This chapter makes needed corrections to an unduly negative scholarly view of
+Ada Lovelace. Credit between Lovelace and Babbage is not a zero-sum game, where
+any credit added to Lovelace somehow detracts from Babbage. Ample evidence
+indicates Babbage and Lovelace each had important contributions to the famous
+1843 Sketch of Babbage's Analytical Engine and the accompanying Notes. Further,
+Lovelace's correspondence with two highly accomplished figures in 19th century
+mathematics, Charles Babbage and Augustus De Morgan, establish her mathematical
+background and sophistication. Babbage and Lovelace's treatment of the
+Bernoulli numbers in Note 'G' spotlights this aspect of their collaboration.
+Finally, while acknowledging significant definitional problems in calling
+Lovelace the world's ""first computer programmer,"" I affirm that Lovelace
+created an elemental sequence of instructions -- that is, an algorithm -- for
+computing the series of Bernoulli numbers.
+",['\nThomas J. Misa\n'],"20 pages, 4 figures","In Robin Hammerman and Andrew L. Russell, eds., Ada's Legacy:
+  Cultures of Computing from the Victorian to the Digital Age. Association for
+  Computing Machinery and Morgan & Claypool, 2015",http://dx.doi.org/10.1145/2809523.2809527,math.HO,"['math.HO', 'cs.CY', 'cs.GL', 'F.1; G.0; K.2']",10.1145/2809523.2809527,,[]
+"Epistemological Equation for Analysing Uncontrollable States in Complex
+  Systems: Quantifying Cyber Risks from the Internet of Things",http://arxiv.org/abs/2212.08141v1,2022-12-15T21:02:49Z,2022-12-15T21:02:49Z,"  To enable quantitative risk assessment of uncontrollable risk states in
+complex and coupled IoT systems, a new epistemological equation is designed and
+tested though comparative and empirical analysis. The comparative analysis is
+conducted on national digital strategies, followed by an empirical analysis of
+cyber risk assessment approaches. The new epistemological analysis approach
+enables the assessment of uncontrollable risk states in complex IoT systems,
+which begin to resemble artificial intelligence, and can be used for a
+quantitative self-assessment of IoT cyber risk posture.
+","['\nPetar Radanliev\n', '\nDavid De Roure\n', '\nPete Burnap\n', '\nOmar Santos\n']",,,http://dx.doi.org/10.1007/s12626-021-00086-5,cs.CY,"['cs.CY', 'cs.GL', 'cs.SY', 'eess.SY', 'stat.ME']",10.1007/s12626-021-00086-5,,[]
+Can REF output quality scores be assigned by AI? Experimental evidence,http://arxiv.org/abs/2212.08041v1,2022-12-11T18:32:00Z,2022-12-11T18:32:00Z,"  This document describes strategies for using Artificial Intelligence (AI) to
+predict some journal article scores in future research assessment exercises.
+Five strategies have been assessed.
+","['\nMike Thelwall\n', '\nKayvan Kousha\n', '\nMahshid Abdoli\n', '\nEmma Stuart\n', '\nMeiko Makita\n', '\nPaul Wilson\n', '\nJonathan Levitt\n']",,,http://arxiv.org/abs/2212.08041v1,cs.CY,"['cs.CY', 'cs.CL', 'cs.GL', 'cs.IR', 'cs.LG']",,,[]
+Systematic Literature Review of Gender and Software Engineering in Asia,http://arxiv.org/abs/2211.09554v1,2022-11-16T14:58:01Z,2022-11-16T14:58:01Z,"  It is essential to discuss the role, difficulties, and opportunities
+concerning people of different gender in the field of software engineering
+research, education, and industry. Although some literature reviews address
+software engineering and gender, it is still unclear how research and practices
+in Asia exist for handling gender aspects in software development and
+engineering. We conducted a systematic literature review to grasp the
+comprehensive view of gender research and practices in Asia. We analyzed the 32
+identified papers concerning countries and publication years among 463
+publications. Researchers and practitioners from various organizations actively
+work on gender research and practices in some countries, including China,
+India, and Turkey. We identified topics and classified them into seven
+categories varying from personal mental health and team building to
+organization. Future research directions include investigating the synergy
+between (regional) gender aspects and cultural concerns and considering
+possible contributions and dependency among different topics to have a solid
+foundation for accelerating further research and getting actionable practices.
+",['\nHironori Washizaki\n'],"Asia-Pacific Software Engineering and Diversity, Equity, and
+  Inclusion (APSEDEI) workshop collocated with APSEC 2022, December 6th, 2022",,http://arxiv.org/abs/2211.09554v1,cs.SE,"['cs.SE', 'cs.GL']",,,[]
+Cards Against AI: Predicting Humor in a Fill-in-the-blank Party Game,http://arxiv.org/abs/2210.13016v1,2022-10-24T08:05:21Z,2022-10-24T08:05:21Z,"  Humor is an inherently social phenomenon, with humorous utterances shaped by
+what is socially and culturally accepted. Understanding humor is an important
+NLP challenge, with many applications to human-computer interactions. In this
+work we explore humor in the context of Cards Against Humanity -- a party game
+where players complete fill-in-the-blank statements using cards that can be
+offensive or politically incorrect. We introduce a novel dataset of 300,000
+online games of Cards Against Humanity, including 785K unique jokes, analyze it
+and provide insights. We trained machine learning models to predict the winning
+joke per game, achieving performance twice as good (20\%) as random, even
+without any user information. On the more difficult task of judging novel
+cards, we see the models' ability to generalize is moderate. Interestingly, we
+find that our models are primarily focused on punchline card, with the context
+having little impact. Analyzing feature importance, we observe that short,
+crude, juvenile punchlines tend to win.
+","['\nDan Ofer\n', '\nDafna Shahaf\n']",Conditionally accepted in EMNLP 2022 short findings. 5 pages,https://aclanthology.org/2022.findings-emnlp.394,http://arxiv.org/abs/2210.13016v1,cs.LG,"['cs.LG', 'cs.AI', 'cs.CL', 'cs.CY', 'cs.GL', '68T01, 68T50', 'I.2.7; I.2; K.4; J.4; J.5']",,,[]
+"Sociotechnical Harms of Algorithmic Systems: Scoping a Taxonomy for Harm
+  Reduction",http://arxiv.org/abs/2210.05791v3,2022-10-11T21:22:30Z,2023-07-19T02:56:32Z,"  Understanding the landscape of potential harms from algorithmic systems
+enables practitioners to better anticipate consequences of the systems they
+build. It also supports the prospect of incorporating controls to help minimize
+harms that emerge from the interplay of technologies and social and cultural
+dynamics. A growing body of scholarship has identified a wide range of harms
+across different algorithmic technologies. However, computing research and
+practitioners lack a high level and synthesized overview of harms from
+algorithmic systems. Based on a scoping review of computing research $(n=172)$,
+we present an applied taxonomy of sociotechnical harms to support a more
+systematic surfacing of potential harms in algorithmic systems. The final
+taxonomy builds on and refers to existing taxonomies, classifications, and
+terminologies. Five major themes related to sociotechnical harms -
+representational, allocative, quality-of-service, interpersonal harms, and
+social system/societal harms - and sub-themes are presented along with a
+description of these categories. We conclude with a discussion of challenges
+and opportunities for future research.
+","['\nRenee Shelby\n', '\nShalaleh Rismani\n', '\nKathryn Henne\n', '\nAJung Moon\n', '\nNegar Rostamzadeh\n', '\nPaul Nicholas\n', ""\nN'Mah Yilla\n"", '\nJess Gallegos\n', '\nAndrew Smart\n', '\nEmilio Garcia\n', '\nGurleen Virk\n']",,,http://arxiv.org/abs/2210.05791v3,cs.HC,"['cs.HC', 'cs.GL']",,,[]
+"Fast-FNet: Accelerating Transformer Encoder Models via Efficient Fourier
+  Layers",http://arxiv.org/abs/2209.12816v2,2022-09-26T16:23:02Z,2023-05-16T13:16:00Z,"  Transformer-based language models utilize the attention mechanism for
+substantial performance improvements in almost all natural language processing
+(NLP) tasks. Similar attention structures are also extensively studied in
+several other areas. Although the attention mechanism enhances the model
+performances significantly, its quadratic complexity prevents efficient
+processing of long sequences. Recent works focused on eliminating the
+disadvantages of computational inefficiency and showed that transformer-based
+models can still reach competitive results without the attention layer. A
+pioneering study proposed the FNet, which replaces the attention layer with the
+Fourier Transform (FT) in the transformer encoder architecture. FNet achieves
+competitive performances concerning the original transformer encoder model
+while accelerating training process by removing the computational burden of the
+attention mechanism. However, the FNet model ignores essential properties of
+the FT from the classical signal processing that can be leveraged to increase
+model efficiency further. We propose different methods to deploy FT efficiently
+in transformer encoder models. Our proposed architectures have smaller number
+of model parameters, shorter training times, less memory usage, and some
+additional performance improvements. We demonstrate these improvements through
+extensive experiments on common benchmarks.
+","['\nNurullah Sevim\n', '\nEge Ozan Özyedek\n', '\nFurkan Şahinuç\n', '\nAykut Koç\n']",11 pages,,http://arxiv.org/abs/2209.12816v2,cs.CL,"['cs.CL', 'cs.AI', 'cs.GL', 'eess.AS']",,,[]
+"Challenges and Opportunities of Large Transnational Datasets: A Case
+  Study on European Administrative Crop Data",http://arxiv.org/abs/2210.07178v2,2022-09-19T13:53:51Z,2022-12-22T11:35:49Z,"  Expansive, informative datasets are vital in providing foundations and
+possibilities for scientific research and development across many fields of
+study. Assembly of grand datasets, however, frequently poses difficulty for the
+author and stakeholders alike, with a variety of considerations required
+throughout the collaboration efforts and development lifecycle. In this work,
+we discuss and analyse the challenges and opportunities we faced throughout the
+creation of a transnational, European agricultural dataset containing reference
+labels of cultivated crops. Together, this forms a succinct framework of
+important elements one should consider when forging a dataset of their own.
+","['\nMaja Schneider\n', '\nChristian Marchington\n', '\nMarco Körner\n']","for associated GitHub repository, see
+  https://github.com/maja601/EuroCrops","Workshop on Broadening Research Collaborations in ML (NeurIPS
+  2022)",http://arxiv.org/abs/2210.07178v2,cs.DL,"['cs.DL', 'cs.GL']",,,[]
+"Towards a Standardised Performance Evaluation Protocol for Cooperative
+  MARL",http://arxiv.org/abs/2209.10485v1,2022-09-21T16:40:03Z,2022-09-21T16:40:03Z,"  Multi-agent reinforcement learning (MARL) has emerged as a useful approach to
+solving decentralised decision-making problems at scale. Research in the field
+has been growing steadily with many breakthrough algorithms proposed in recent
+years. In this work, we take a closer look at this rapid development with a
+focus on evaluation methodologies employed across a large body of research in
+cooperative MARL. By conducting a detailed meta-analysis of prior work,
+spanning 75 papers accepted for publication from 2016 to 2022, we bring to
+light worrying trends that put into question the true rate of progress. We
+further consider these trends in a wider context and take inspiration from
+single-agent RL literature on similar issues with recommendations that remain
+applicable to MARL. Combining these recommendations, with novel insights from
+our analysis, we propose a standardised performance evaluation protocol for
+cooperative MARL. We argue that such a standard protocol, if widely adopted,
+would greatly improve the validity and credibility of future research, make
+replication and reproducibility easier, as well as improve the ability of the
+field to accurately gauge the rate of progress over time by being able to make
+sound comparisons across different works. Finally, we release our meta-analysis
+data publicly on our project website for future research on evaluation:
+https://sites.google.com/view/marl-standard-protocol
+","['\nRihab Gorsane\n', '\nOmayma Mahjoub\n', '\nRuan de Kock\n', '\nRoland Dubb\n', '\nSiddarth Singh\n', '\nArnu Pretorius\n']","Published at the 36th Conference on Neural Information Processing
+  Systems (NeurIPS 2022). Website: see
+  https://sites.google.com/view/marl-standard-protocol . 43 Pages, 21 Figures,
+  8 Tables",,http://arxiv.org/abs/2209.10485v1,cs.LG,"['cs.LG', 'cs.AI', 'cs.GL', 'cs.MA', 'I.2.11; I.2.0; A.1']",,,[]
+"An Overview of Phishing Victimization: Human Factors, Training and the
+  Role of Emotions",http://arxiv.org/abs/2209.11197v1,2022-09-13T12:51:20Z,2022-09-13T12:51:20Z,"  Phishing is a form of cybercrime and a threat that allows criminals,
+phishers, to deceive end users in order to steal their confidential and
+sensitive information. Attackers usually attempt to manipulate the psychology
+and emotions of victims. The increasing threat of phishing has made its study
+worthwhile and much research has been conducted into the issue. This paper
+explores the emotional factors that have been reported in previous studies to
+be significant in phishing victimization. In addition, we compare what security
+organizations and researchers have highlighted in terms of phishing types and
+categories as well as training in tackling the problem, in a literature review
+which takes into account all major credible and published sources.
+",['\nMousa Jari\n'],,,http://dx.doi.org/10.5121/csit.2022.121319,cs.CR,"['cs.CR', 'cs.CY', 'cs.GL', 'cs.HC']",10.5121/csit.2022.121319,,[]
+Decentralized Infrastructure for (Neuro)science,http://arxiv.org/abs/2209.07493v1,2022-09-01T01:46:29Z,2022-09-01T01:46:29Z,"  The most pressing problems in science are neither empirical nor theoretical,
+but infrastructural. Scientific practice is defined by coproductive, mutually
+reinforcing infrastructural deficits and incentive systems that everywhere
+constrain and contort our art of curiosity in service of profit and prestige.
+Our infrastructural problems are not unique to science, but reflective of the
+broader logic of digital enclosure where platformatized control of information
+production and extraction fuels some of the largest corporations in the world.
+I have taken lessons learned from decades of intertwined digital cultures
+within and beyond academia like wikis, pirates, and librarians in order to
+draft a path towards more liberatory infrastructures for both science and
+society. Based on a system of peer-to-peer linked data, I sketch interoperable
+systems for shared data, tools, and knowledge that map onto three domains of
+platform capture: storage, computation and communication. The challenge of
+infrastructure is not solely technical, but also social and cultural, and so I
+attempt to ground a practical development blueprint in an ethics for organizing
+and maintaining it. I intend this draft as a rallying call for organization, to
+be revised with the input of collaborators and through the challenges posed by
+its implementation. I argue that a more liberatory future for science is
+neither utopian nor impractical -- the truly impractical choice is to continue
+to organize science as prestige fiefdoms resting on a pyramid scheme of
+underpaid labor, playing out the clock as every part of our work is swallowed
+whole by circling information conglomerates. It was arguably scientists looking
+for a better way to communicate that created something as radical as the
+internet in the first place, and I believe we can do it again.
+",['\nJonny L. Saunders\n'],Original Web Document: https://jon-e.net/infrastructure,,http://arxiv.org/abs/2209.07493v1,cs.GL,"['cs.GL', 'K.2; K.4.1; K.4.3; E.2; H.5.3; H.4.3; K.6.4']",,,[]
+SIND: A Drone Dataset at Signalized Intersection in China,http://arxiv.org/abs/2209.02297v1,2022-09-06T08:49:44Z,2022-09-06T08:49:44Z,"  Intersection is one of the most challenging scenarios for autonomous driving
+tasks. Due to the complexity and stochasticity, essential applications (e.g.,
+behavior modeling, motion prediction, safety validation, etc.) at intersections
+rely heavily on data-driven techniques. Thus, there is an intense demand for
+trajectory datasets of traffic participants (TPs) in intersections. Currently,
+most intersections in urban areas are equipped with traffic lights. However,
+there is not yet a large-scale, high-quality, publicly available trajectory
+dataset for signalized intersections. Therefore, in this paper, a typical
+two-phase signalized intersection is selected in Tianjin, China. Besides, a
+pipeline is designed to construct a Signalized INtersection Dataset (SIND),
+which contains 7 hours of recording including over 13,000 TPs with 7 types.
+Then, the behaviors of traffic light violations in SIND are recorded.
+Furthermore, the SIND is also compared with other similar works. The features
+of the SIND can be summarized as follows: 1) SIND provides more comprehensive
+information, including traffic light states, motion parameters, High Definition
+(HD) map, etc. 2) The category of TPs is diverse and characteristic, where the
+proportion of vulnerable road users (VRUs) is up to 62.6% 3) Multiple traffic
+light violations of non-motor vehicles are shown. We believe that SIND would be
+an effective supplement to existing datasets and can promote related research
+on autonomous driving.The dataset is available online via:
+https://github.com/SOTIF-AVLab/SinD
+","['\nYanchao Xu\n', '\nWenbo Shao\n', '\nJun Li\n', '\nKai Yang\n', '\nWeida Wang\n', '\nHua Huang\n', '\nChen Lv\n', '\nHong Wang\n']",8 pages,,http://arxiv.org/abs/2209.02297v1,cs.CV,"['cs.CV', 'cs.GL']",,,[]
+Mary Kenneth Keller: First US PhD in Computer Science,http://arxiv.org/abs/2208.01765v2,2022-08-02T21:42:01Z,2023-03-30T18:18:18Z,"  In June 1965, Sister Mary Kenneth Keller, BVM, received the first US PhD in
+Computer Science, and this paper outlines her life and accomplishments. As a
+scholar, she has the distinction of being an early advocate of
+learning-by-example in artificial intelligence. Her main scholarly contribution
+was in shaping computer science education in high schools and small colleges.
+She was an evangelist for viewing the computer as a symbol manipulator, for
+providing computer literacy to everyone, and for the use of computers in
+service to humanity. She was far ahead of her time in working to ensure a place
+for women in technology and in eliminating barriers preventing their
+participation, such as poor access to education and daycare. She was a strong
+and spirited woman, a visionary in seeing how computers would revolutionize our
+lives. A condensation of this paper appeared as, ``The Legacy of Mary Kenneth
+Keller, First U.S. Ph.D. in Computer Science,"" Jennifer Head and Dianne P.
+O'Leary, IEEE Annals of the History of Computing 45(1):55--63, January-March
+2023.
+","['\nJennifer Head\n', ""\nDianne P. O'Leary\n""]","This revision expands the abstract, adds a reference to a condensed
+  version of this paper published in a journal, references Keller's work on ACM
+  curricula, and notes an IEEE prize in her honor","IEEE Annals of the History of Computing 45(1):55--63,
+  January-March 2023",http://dx.doi.org/10.1109/MAHC.2022.3231763,cs.GL,"['cs.GL', '68.03', 'K.2']",10.1109/MAHC.2022.3231763,,[]
+RangL: A Reinforcement Learning Competition Platform,http://arxiv.org/abs/2208.00003v1,2022-07-28T09:44:21Z,2022-07-28T09:44:21Z,"  The RangL project hosted by The Alan Turing Institute aims to encourage the
+wider uptake of reinforcement learning by supporting competitions relating to
+real-world dynamic decision problems. This article describes the reusable code
+repository developed by the RangL team and deployed for the 2022 Pathways to
+Net Zero Challenge, supported by the UK Net Zero Technology Centre. The winning
+solutions to this particular Challenge seek to optimize the UK's energy
+transition policy to net zero carbon emissions by 2050. The RangL repository
+includes an OpenAI Gym reinforcement learning environment and code that
+supports both submission to, and evaluation in, a remote instance of the open
+source EvalAI platform as well as all winning learning agent strategies. The
+repository is an illustrative example of RangL's capability to provide a
+reusable structure for future challenges.
+","['\nViktor Zobernig\n', '\nRichard A. Saldanha\n', '\nJinke He\n', '\nErica van der Sar\n', '\nJasper van Doorn\n', '\nJia-Chen Hua\n', '\nLachlan R. Mason\n', '\nAleksander Czechowski\n', '\nDrago Indjic\n', '\nTomasz Kosmala\n', '\nAlessandro Zocca\n', '\nSandjai Bhulai\n', '\nJorge Montalvo Arvizu\n', '\nClaude Klöckl\n', '\nJohn Moriarty\n']","Documents in general and premierly the RangL competition plattform
+  and in particular its 2022's competition ""Pathways to Netzero"" 10 pages, 2
+  figures, 1 table, Comments welcome!",,http://arxiv.org/abs/2208.00003v1,cs.LG,"['cs.LG', 'cs.AI', 'cs.GL', 'cs.SY', 'eess.SY', 'math.OC']",,,[]
+Playing catch-up in building an open research commons,http://arxiv.org/abs/2208.04682v1,2022-07-15T17:34:00Z,2022-07-15T17:34:00Z,"  On August 2, 2021 a group of concerned scientists and US funding agency and
+federal government officials met for an informal discussion to explore the
+value and need for a well-coordinated US Open Research Commons (ORC); an
+interoperable collection of data and compute resources within both the public
+and private sectors which are easy to use and accessible to all.
+","['\nPhilip E. Bourne\n', '\nVivien Bonazzi\n', '\nAmy Brand\n', '\nBonnie Carroll\n', '\nIan Foster\n', '\nRamanathan V. Guha\n', '\nRobert Hanisch\n', '\nSallie Ann Keller\n', '\nMary Lee Kennedy\n', '\nChristine Kirkpatrick\n', '\nBarend Mons\n', '\nSarah M. Nusser\n', '\nMichael Stebbins\n', '\nGeorge Strawn\n', '\nAlex Szalay\n']",3 pages on the AAS template,,http://dx.doi.org/10.1126/science.abo5947,cs.DL,"['cs.DL', 'cs.GL']",10.1126/science.abo5947,,[]
+COEM: Cross-Modal Embedding for MetaCell Identification,http://arxiv.org/abs/2207.07734v2,2022-07-15T20:17:50Z,2022-07-25T03:10:31Z,"  Metacells are disjoint and homogeneous groups of single-cell profiles,
+representing discrete and highly granular cell states. Existing metacell
+algorithms tend to use only one modality to infer metacells, even though
+single-cell multi-omics datasets profile multiple molecular modalities within
+the same cell. Here, we present \textbf{C}ross-M\textbf{O}dal
+\textbf{E}mbedding for \textbf{M}etaCell Identification (COEM), which utilizes
+an embedded space leveraging the information of both scATAC-seq and scRNA-seq
+to perform aggregation, balancing the trade-off between fine resolution and
+sufficient sequencing coverage. COEM outperforms the state-of-the-art method
+SEACells by efficiently identifying accurate and well-separated metacells
+across datasets with continuous and discrete cell types. Furthermore, COEM
+significantly improves peak-to-gene association analyses, and facilitates
+complex gene regulatory inference tasks.
+","['\nHaiyi Mao\n', '\nMinxue Jia\n', '\nJason Xiaotian Dou\n', '\nHaotian Zhang\n', '\nPanayiotis V. Benos\n']","5 pages, 2 figures, ICML workshop on computational biology",,http://arxiv.org/abs/2207.07734v2,q-bio.GN,"['q-bio.GN', 'cs.AI', 'cs.GL']",,,[]
+"Satoshi Nakamoto and the Origins of Bitcoin -- The Profile of a
+  1-in-a-Billion Genius",http://arxiv.org/abs/2206.10257v14,2022-06-21T11:10:21Z,2022-09-09T16:04:31Z,"  The mystery about the ingenious creator of Bitcoin concealing behind the
+pseudonym Satoshi Nakamoto has been fascinating the global public for more than
+a decade. Suddenly jumping out of the dark in 2008, this persona hurled the
+decentralized electronic cash system ""Bitcoin"", which has reached a peak market
+capitalization in the region of 1 trillion USD. In a purposely agnostic, and
+meticulous ""lea-ving no stone unturned"" approach, this study presents new hard
+facts, which evidently slipped through Satoshi Nakamoto's elaborate privacy
+shield, and derives meaningful pointers that are primarily inferred from
+Bitcoin's whitepaper, its blockchain parameters, and data that were widely up
+to his discretion. This ample stack of established and novel evidence is
+systematically categorized, analyzed, and then connected to its related,
+real-world ambient, like relevant locations and happenings in the past, and at
+the time. Evidence compounds towards a substantial role of the Benelux
+cryptography ecosystem, with strong transatlantic links, in the creation of
+Bitcoin. A consistent biography, a psychogram, and gripping story of an
+ingenious, multi-talented, autodidactic, reticent, and capricious polymath
+transpire, which are absolutely unique from a history of science and technology
+perspective. A cohort of previously fielded and best matches emerging from the
+investigations are probed against an unprecedently restrictive, multi-stage
+exclusion filter, which can, with maximum certainty, rule out most ""Satoshi
+Nakamoto"" candidates, while some of them remain to be confirmed. With this
+article, you will be able to decide who is not, or highly unlikely to be
+Satoshi Nakamoto, be equipped with an ample stack of systematically categorized
+evidence and efficient methodologies to find suitable candidates, and can
+possibly unveil the real identity of the creator of Bitcoin - if you want.
+",['\nJens Ducrée\n'],Main text: 84 pages Number of references: 1468 Appendix: 5 pages,,http://arxiv.org/abs/2206.10257v14,cs.GL,"['cs.GL', 'cs.CR', '91-03, 01A61', 'E.3; K.2']",,,[]
+Mind the hubris: complexity can misfire,http://arxiv.org/abs/2207.12230v2,2022-06-22T09:57:06Z,2022-10-30T12:23:23Z,"  Here we briefly reflect on the philosophical foundations that ground the
+quest towards ever-detailed models and identify four practical dangers derived
+from this pursuit: explosion of the model's uncertainty space, model
+black-boxing, computational exhaustion and model attachment. We argue that the
+growth of a mathematical model should be carefully and continuously pondered
+lest models become extraneous constructs chasing the Cartesian dream.
+","['\nArnald Puy\n', '\nAndrea Saltelli\n']","This is a draft of a chapter that has been accepted for publication
+  by Oxford University Press in the forthcoming book ""Views on Mathematical
+  Modelling"", edited by Andrea Saltelli and Monica Di Fiore and due for
+  publication in 2023",,http://arxiv.org/abs/2207.12230v2,cs.GL,"['cs.GL', 'math.HO']",,,[]
+"50 Years of Computational Complexity: Hao Wang and the Theory of
+  Computation",http://arxiv.org/abs/2206.05274v1,2022-06-12T03:50:19Z,2022-06-12T03:50:19Z,"  If Turing's groundbreaking paper in 1936 laid the foundation of the theory of
+computation (ToC), it is no exaggeration to say that Cook's paper in 1971, ""The
+complexity of theorem proving procedures"", [4] has pioneered the study of
+computational complexity. So computational complexity, as an independent
+research field, is 50 years old now (2021) if we date from Cook's article. This
+year coincides with the 100th birthday of Cook's mentor Hao Wang, one of the
+most important logicians. This paper traces the origin of computational
+complexity, and meanwhile, tries to sort out the instrumental role that Wang
+played in the process.
+",['\nNick Zhang\n'],,,http://arxiv.org/abs/2206.05274v1,cs.GL,['cs.GL'],,,[]
+"Moore's Law is dead, long live Moore's Law!",http://arxiv.org/abs/2205.15011v1,2022-05-27T05:51:43Z,2022-05-27T05:51:43Z,"  Moore's Law has been used by semiconductor industry as predicative indicators
+of the industry and it has become a self-fulfilling prophecy. Now more people
+tend to agree that the original Moore's Law started to falter. This paper
+proposes a possible quantitative modification to Moore's Law. It can cover
+other derivative laws of Moore's Law as well. It intends to more accurately
+predict the roadmap of chip's performance and energy consumption.
+",['\nNick Zhang\n'],,,http://arxiv.org/abs/2205.15011v1,cs.GL,['cs.GL'],,,[]
+"AI-enabled Sound Pattern Recognition on Asthma Medication Adherence:
+  Evaluation with the RDA Benchmark Suite",http://arxiv.org/abs/2205.15360v3,2022-05-30T18:08:28Z,2023-04-16T17:32:06Z,"  Asthma is a common, usually long-term respiratory disease with negative
+impact on global society and economy. Treatment involves using medical devices
+(inhalers) that distribute medication to the airways and its efficiency depends
+on the precision of the inhalation technique. There is a clinical need for
+objective methods to assess the inhalation technique, during clinical
+consultation. Integrated health monitoring systems, equipped with sensors,
+enable the recognition of drug actuation, embedded with sound signal detection,
+analysis and identification, from intelligent structures, that could provide
+powerful tools for reliable content management. Health monitoring systems
+equipped with sensors, embedded with sound signal detection, enable the
+recognition of drug actuation and could be used for effective audio content
+analysis. This paper revisits sound pattern recognition with machine learning
+techniques for asthma medication adherence assessment and presents the
+Respiratory and Drug Actuation (RDA) Suite
+(https://gitlab.com/vvr/monitoring-medication-adherence/rda-benchmark) for
+benchmarking and further research. The RDA Suite includes a set of tools for
+audio processing, feature extraction and classification procedures and is
+provided along with a dataset, consisting of respiratory and drug actuation
+sounds. The classification models in RDA are implemented based on conventional
+and advanced machine learning and deep networks' architectures. This study
+provides a comparative evaluation of the implemented approaches, examines
+potential improvements and discusses on challenges and future tendencies.
+","['\nNikos D. Fakotakis\n', '\nStavros Nousias\n', '\nGerasimos Arvanitis\n', '\nEvangelia I. Zacharaki\n', '\nKonstantinos Moustakas\n']",,,http://dx.doi.org/10.1109/ACCESS.2023.3243547,cs.SD,"['cs.SD', 'cs.CV', 'cs.CY', 'cs.GL', 'eess.AS']",10.1109/ACCESS.2023.3243547,,[]
+A Survey of Deep Learning Models for Structural Code Understanding,http://arxiv.org/abs/2205.01293v1,2022-05-03T03:56:17Z,2022-05-03T03:56:17Z,"  In recent years, the rise of deep learning and automation requirements in the
+software industry has elevated Intelligent Software Engineering to new heights.
+The number of approaches and applications in code understanding is growing,
+with deep learning techniques being used in many of them to better capture the
+information in code data. In this survey, we present a comprehensive overview
+of the structures formed from code data. We categorize the models for
+understanding code in recent years into two groups: sequence-based and
+graph-based models, further make a summary and comparison of them. We also
+introduce metrics, datasets and the downstream tasks. Finally, we make some
+suggestions for future research in structural code understanding field.
+","['\nRuoting Wu\n', '\nYuxin Zhang\n', '\nQibiao Peng\n', '\nLiang Chen\n', '\nZibin Zheng\n']","48 pages, 4 figures",,http://arxiv.org/abs/2205.01293v1,cs.SE,"['cs.SE', 'cs.AI', 'cs.GL', 'cs.PL']",,,[]
+"A Brief Guide to Designing and Evaluating Human-Centered Interactive
+  Machine Learning",http://arxiv.org/abs/2204.09622v1,2022-04-20T17:05:09Z,2022-04-20T17:05:09Z,"  Interactive machine learning (IML) is a field of research that explores how
+to leverage both human and computational abilities in decision making systems.
+IML represents a collaboration between multiple complementary human and machine
+intelligent systems working as a team, each with their own unique abilities and
+limitations. This teamwork might mean that both systems take actions at the
+same time, or in sequence. Two major open research questions in the field of
+IML are: ""How should we design systems that can learn to make better decisions
+over time with human interaction?"" and ""How should we evaluate the design and
+deployment of such systems?"" A lack of appropriate consideration for the humans
+involved can lead to problematic system behaviour, and issues of fairness,
+accountability, and transparency. Thus, our goal with this work is to present a
+human-centred guide to designing and evaluating IML systems while mitigating
+risks. This guide is intended to be used by machine learning practitioners who
+are responsible for the health, safety, and well-being of interacting humans.
+An obligation of responsibility for public interaction means acting with
+integrity, honesty, fairness, and abiding by applicable legal statutes. With
+these values and principles in mind, we as a machine learning research
+community can better achieve goals of augmenting human skills and abilities.
+This practical guide therefore aims to support many of the responsible
+decisions necessary throughout the iterative design, development, and
+dissemination of IML systems.
+","['\nKory W. Mathewson\n', '\nPatrick M. Pilarski\n']","7 pages, 1 figure, Published at ML Evaluation Standards Workshop at
+  ICLR 2022. arXiv admin note: substantial text overlap with arXiv:1905.06289",,http://arxiv.org/abs/2204.09622v1,cs.HC,"['cs.HC', 'cs.GL', 'cs.LG']",,,[]
+"The Carbon Footprint of Machine Learning Training Will Plateau, Then
+  Shrink",http://arxiv.org/abs/2204.05149v1,2022-04-11T14:30:27Z,2022-04-11T14:30:27Z,"  Machine Learning (ML) workloads have rapidly grown in importance, but raised
+concerns about their carbon footprint. Four best practices can reduce ML
+training energy by up to 100x and CO2 emissions up to 1000x. By following best
+practices, overall ML energy use (across research, development, and production)
+held steady at <15% of Google's total energy use for the past three years. If
+the whole ML field were to adopt best practices, total carbon emissions from
+training would reduce. Hence, we recommend that ML papers include emissions
+explicitly to foster competition on more than just model quality. Estimates of
+emissions in papers that omitted them have been off 100x-100,000x, so
+publishing emissions has the added benefit of ensuring accurate accounting.
+Given the importance of climate change, we must get the numbers right to make
+certain that we work on its biggest challenges.
+","['\nDavid Patterson\n', '\nJoseph Gonzalez\n', '\nUrs Hölzle\n', '\nQuoc Le\n', '\nChen Liang\n', '\nLluis-Miquel Munguia\n', '\nDaniel Rothchild\n', '\nDavid So\n', '\nMaud Texier\n', '\nJeff Dean\n']",,,http://arxiv.org/abs/2204.05149v1,cs.LG,"['cs.LG', 'cs.AI', 'cs.GL']",,,[]
+"Contextualizing Artificially Intelligent Morality: A Meta-Ethnography of
+  Top-Down, Bottom-Up, and Hybrid Models for Theoretical and Applied Ethics in
+  Artificial Intelligence",http://arxiv.org/abs/2204.07612v2,2022-04-15T18:47:49Z,2022-09-08T18:15:35Z,"  In this meta-ethnography, we explore three different angles of ethical
+artificial intelligence (AI) design implementation including the philosophical
+ethical viewpoint, the technical perspective, and framing through a political
+lens. Our qualitative research includes a literature review that highlights the
+cross-referencing of these angles by discussing the value and drawbacks of
+contrastive top-down, bottom-up, and hybrid approaches previously published.
+The novel contribution to this framework is the political angle, which
+constitutes ethics in AI either being determined by corporations and
+governments and imposed through policies or law (coming from the top), or
+ethics being called for by the people (coming from the bottom), as well as
+top-down, bottom-up, and hybrid technicalities of how AI is developed within a
+moral construct and in consideration of its users, with expected and unexpected
+consequences and long-term impact in the world. There is a focus on
+reinforcement learning as an example of a bottom-up applied technical approach
+and AI ethics principles as a practical top-down approach. This investigation
+includes real-world case studies to impart a global perspective, as well as
+philosophical debate on the ethics of AI and theoretical future thought
+experimentation based on historical facts, current world circumstances, and
+possible ensuing realities.
+","['\nJennafer S. Roberts\n', '\nLaura N. Montoya\n']","22 pages, 4 tables, accepted for publication in the Future of
+  Information and Communication Conference (FICC) 2023 proceedings will be
+  published in Springer series ""Lecture Notes in Networks and Systems"" and
+  submitted for consideration to Web of Science, SCOPUS, INSPEC, WTI Frankfurt
+  eG, zbMATH and SCImago",,http://arxiv.org/abs/2204.07612v2,cs.AI,"['cs.AI', 'cs.CY', 'cs.GL', 'cs.HC', 'cs.NE']",,,[]
+"Quantum Computers, Predictability, and Free Will",http://arxiv.org/abs/2204.02768v1,2022-04-05T12:55:31Z,2022-04-05T12:55:31Z,"  This article focuses on the connection between the possibility of quantum
+computers, the predictability of complex quantum systems in nature, and the
+issue of free will.
+",['\nGil Kalai\n'],"32 pages, 7 figures",,http://arxiv.org/abs/2204.02768v1,quant-ph,"['quant-ph', 'cs.GL', 'physics.hist-ph']",,,[]
+"Advancing Data Justice Research and Practice: An Integrated Literature
+  Review",http://arxiv.org/abs/2204.03090v1,2022-04-06T21:09:27Z,2022-04-06T21:09:27Z,"  The Advancing Data Justice Research and Practice (ADJRP) project aims to
+widen the lens of current thinking around data justice and to provide
+actionable resources that will help policymakers, practitioners, and impacted
+communities gain a broader understanding of what equitable, freedom-promoting,
+and rights-sustaining data collection, governance, and use should look like in
+increasingly dynamic and global data innovation ecosystems. In this integrated
+literature review we hope to lay the conceptual groundwork needed to support
+this aspiration. The introduction motivates the broadening of data justice that
+is undertaken by the literature review which follows. First, we address how
+certain limitations of the current study of data justice drive the need for a
+re-location of data justice research and practice. We map out the strengths and
+shortcomings of the contemporary state of the art and then elaborate on the
+challenges faced by our own effort to broaden the data justice perspective in
+the decolonial context. The body of the literature review covers seven thematic
+areas. For each theme, the ADJRP team has systematically collected and analysed
+key texts in order to tell the critical empirical story of how existing social
+structures and power dynamics present challenges to data justice and related
+justice fields. In each case, this critical empirical story is also
+supplemented by the transformational story of how activists, policymakers, and
+academics are challenging longstanding structures of inequity to advance social
+justice in data innovation ecosystems and adjacent areas of technological
+practice.
+","['\nDavid Leslie\n', '\nMichael Katell\n', '\nMhairi Aitken\n', '\nJatinder Singh\n', '\nMorgan Briggs\n', '\nRosamund Powell\n', '\nCami Rincón\n', '\nThompson Chengeta\n', '\nAbeba Birhane\n', '\nAntonella Perini\n', '\nSmera Jayadeva\n', '\nAnjali Mazumder\n']",,,http://dx.doi.org/10.5281/zenodo.6408304,cs.CY,"['cs.CY', 'cs.AI', 'cs.GL', 'cs.HC']",10.5281/zenodo.6408304,,[]
+"The EL-X8 computer and the BOL detector Networking, programming,
+  time-sharing and data-handling in the Amsterdam nuclear research project
+  `BOL' A personal historical review",http://arxiv.org/abs/2203.11280v1,2022-03-09T19:53:09Z,2022-03-09T19:53:09Z,"  From 1967 to 1974, an Electrologica X8 computer was installed at the
+Institute for Nuclear Research (IKO) in Amsterdam, primarily for online and
+offline evaluation of experimental data, an application quite different from
+its `brother's', X8's. During that time, the nuclear detection system `BOL' was
+in operation to study nuclear reactions. The BOL detector embodied a new and
+bold concept. It consisted of a large number of state-of-the-art detection
+units, mounted in a spherical arrangement around a target in a beam of nuclear
+particles. Two minicomputers performed data acquisition and control of the
+experiment and supported online visual display of acquired data. The X8
+computer, networked with the minicomputers, allowed fast high-level data
+processing and analysis. Pioneering work in both experimental nuclear physics
+as well as in programming, turned out to be a surprisingly good combination.
+For the network with the X8 and the minicomputers, advanced software layers
+were developed to efficiently and flexibly program extensive data handling.
+",['\nRené van Dantzig\n'],"19 pages, 10 figures",,http://arxiv.org/abs/2203.11280v1,physics.ins-det,"['physics.ins-det', 'cs.GL']",,,[]
+"The Hitchhiker's Guide to Fused Twins: A Review of Access to Digital
+  Twins in situ in Smart Cities",http://arxiv.org/abs/2202.07104v2,2022-02-15T00:17:40Z,2022-06-08T16:56:47Z,"  Smart Cities already surround us, and yet they are still incomprehensibly far
+from directly impacting everyday life. While current Smart Cities are often
+inaccessible, the experience of everyday citizens may be enhanced with a
+combination of the emerging technologies Digital Twins (DTs) and Situated
+Analytics. DTs represent their Physical Twin (PT) in the real world via models,
+simulations, (remotely) sensed data, context awareness, and interactions.
+However, interaction requires appropriate interfaces to address the complexity
+of the city. Ultimately, leveraging the potential of Smart Cities requires
+going beyond assembling the DT to be comprehensive and accessible. Situated
+Analytics allows for the anchoring of city information in its spatial context.
+We advance the concept of embedding the DT into the PT through Situated
+Analytics to form Fused Twins (FTs). This fusion allows access to data in the
+location that it is generated in an embodied context that can make the data
+more understandable. Prototypes of FTs are rapidly emerging from different
+domains, but Smart Cities represent the context with the most potential for FTs
+in the future. This paper reviews DTs, Situated Analytics, and Smart Cities as
+the foundations of FTs. Regarding DTs, we define five components (Physical,
+Data, Analytical, Virtual, and Connection environments) that we relate to
+several cognates (i.e., similar but different terms) from existing literature.
+Regarding Situated Analytics, we review the effects of user embodiment on
+cognition and cognitive load. Finally, we classify existing partial examples of
+FTs from the literature and address their construction from Augmented Reality,
+Geographic Information Systems, Building/City Information Models, and DTs and
+provide an overview of future direction
+","['\nJascha Grübel\n', '\nTyler Thrash\n', '\nLeonel Aguilar\n', '\nMichal Gath-Morad\n', '\nJulia Chatain\n', '\nRobert W. Sumner\n', '\nChristoph Hölscher\n', '\nVictor R. Schinazi\n']","Additional authors for new content required by reviewers. Added
+  content (on situated analytics and smart cities). Reorganized sections.
+  Expanded literature review. Expanded discussion",,http://arxiv.org/abs/2202.07104v2,cs.CY,"['cs.CY', 'cs.GL', 'cs.HC']",,,[]
+Data Science in Perspective,http://arxiv.org/abs/2201.05852v1,2022-01-15T13:51:12Z,2022-01-15T13:51:12Z,"  Data and Science has stood out in the generation of results, whether in the
+projects of the scientific domain or business domain. CERN Project, Scientific
+Institutes, companies like Walmart, Google, Apple, among others, need data to
+present their results and make predictions in the competitive data world. Data
+and Science are words that together culminated in a globally recognized term
+called Data Science. Data Science is in its initial phase, possibly being part
+of formal sciences and also being presented as part of applied sciences,
+capable of generating value and supporting decision making. Data Science
+considers science and, consequently, the scientific method to promote decision
+making through data intelligence. In many cases, the application of the method
+(or part of it) is considered in Data Science projects in scientific domain
+(social sciences, bioinformatics, geospatial projects) or business domain
+(finance, logistic, retail), among others. In this sense, this article
+addresses the perspectives of Data Science as a multidisciplinary area,
+considering science and the scientific method, and its formal structure which
+integrate Statistics, Computer Science, and Business Science, also taking into
+account Artificial Intelligence, emphasizing Machine Learning, among others.
+The article also deals with the perspective of applied Data Science, since Data
+Science is used for generating value through scientific and business projects.
+Data Science persona is also discussed in the article, concerning the education
+of Data Science professionals and its corresponding profiles, since its
+projection changes the field of data in the world.
+",['\nRogerio Rossi\n'],Information Society Conference - i-Society 2021,,http://arxiv.org/abs/2201.05852v1,cs.GL,['cs.GL'],,,[]
+A survey study of success factors in data science projects,http://arxiv.org/abs/2201.06310v1,2022-01-17T09:50:46Z,2022-01-17T09:50:46Z,"  In recent years, the data science community has pursued excellence and made
+significant research efforts to develop advanced analytics, focusing on solving
+technical problems at the expense of organizational and socio-technical
+challenges. According to previous surveys on the state of data science project
+management, there is a significant gap between technical and organizational
+processes. In this article we present new empirical data from a survey to 237
+data science professionals on the use of project management methodologies for
+data science. We provide additional profiling of the survey respondents' roles
+and their priorities when executing data science projects. Based on this survey
+study, the main findings are: (1) Agile data science lifecycle is the most
+widely used framework, but only 25% of the survey participants state to follow
+a data science project methodology. (2) The most important success factors are
+precisely describing stakeholders' needs, communicating the results to
+end-users, and team collaboration and coordination. (3) Professionals who
+adhere to a project methodology place greater emphasis on the project's
+potential risks and pitfalls, version control, the deployment pipeline to
+production, and data security and privacy.
+","['\nIñigo Martinez\n', '\nElisabeth Viles\n', '\nIgor G. Olaizola\n']","6 pages, 7 figures, 2 tables, accepted at IEEE Big Data 2021,
+  International Workshop on Methods to Improve Big Data Science Projects","2021 IEEE International Conference on Big Data, pages 2313-2318",http://dx.doi.org/10.1109/BigData52589.2021.9671588,cs.DB,"['cs.DB', 'cs.GL', 'cs.LG', 'cs.SE']",10.1109/BigData52589.2021.9671588,,[]
+"Data science to investigate temperature profiles of large networks of
+  food refrigeration systems",http://arxiv.org/abs/2201.02046v1,2022-01-05T17:53:34Z,2022-01-05T17:53:34Z,"  The electrical generation and transmission infrastructures of many countries
+are under increased pressure. This partially reflects the move towards low
+carbon economies and the increased reliance on renewable power generation
+systems. There has been a reduction in the use of traditional fossil fuel
+generation systems, which provide a stable base load, and this has been
+replaced with more unpredictable renewable generation. As a consequence, the
+available load on the grid is becoming more unstable. To cope with this
+variability, the UK National Grid has placed emphasis on the investigation of
+various technical mechanisms (e.g. implementation of smart grids, energy
+storage technologies, auxiliary power sources), which may be able to prevent
+critical situations, when the grid may become sometimes unstable. The
+successful implementation of these mechanisms may require large numbers of
+electrical consumers (e.g. HVAC systems, food refrigeration systems) for
+example to make additional investments in energy storage technologies (food
+refrigeration systems) or to integrate their electrical demand from industrial
+processes into the National Grid (HVAC systems). However, in the situation of
+food refrigeration systems, during these critical situations, even if the
+thermal inertia within refrigeration systems may maintain effective performance
+of the device for a short period of time (e.g. under 1 minute) when the
+electrical input load into the system is reduced, this still carries the
+paramount risk of food safety even for very short periods of time (e.g. under 1
+minute). Therefore before considering any future actions (e.g. investing in
+energy storage technologies) to prevent the critical situations when grid
+becomes unstable, it is also needed to understand during the normal use how the
+temperature profiles evolve along the time inside these massive networks of
+food refrigeration systems.
+",['\nCorneliu Arsene\n'],"51 pages, 33 figures, 15 tables",,http://arxiv.org/abs/2201.02046v1,physics.soc-ph,"['physics.soc-ph', 'cs.GL']",,,[]
+A Taxonomy of Anomalies in Log Data,http://arxiv.org/abs/2111.13462v1,2021-11-26T12:23:06Z,2021-11-26T12:23:06Z,"  Log data anomaly detection is a core component in the area of artificial
+intelligence for IT operations. However, the large amount of existing methods
+makes it hard to choose the right approach for a specific system. A better
+understanding of different kinds of anomalies, and which algorithms are
+suitable for detecting them, would support researchers and IT operators.
+Although a common taxonomy for anomalies already exists, it has not yet been
+applied specifically to log data, pointing out the characteristics and
+peculiarities in this domain.
+  In this paper, we present a taxonomy for different kinds of log data
+anomalies and introduce a method for analyzing such anomalies in labeled
+datasets. We applied our taxonomy to the three common benchmark datasets
+Thunderbird, Spirit, and BGL, and trained five state-of-the-art unsupervised
+anomaly detection algorithms to evaluate their performance in detecting
+different kinds of anomalies. Our results show, that the most common anomaly
+type is also the easiest to predict. Moreover, deep learning-based approaches
+outperform data mining-based approaches in all anomaly types, but especially
+when it comes to detecting contextual anomalies.
+","['\nThorsten Wittkopp\n', '\nPhilipp Wiesner\n', '\nDominik Scheinert\n', '\nOdej Kao\n']","Paper accepted and presented at AIOPS workshop 2021 co-located with
+  ICSOC 2021",,http://arxiv.org/abs/2111.13462v1,cs.DB,"['cs.DB', 'cs.GL', 'cs.LG']",,,[]
+Towards a Theory of Bullshit Visualization,http://arxiv.org/abs/2109.12975v1,2021-09-23T17:20:37Z,2021-09-23T17:20:37Z,"  In this unhinged rant, I lay out my suspicion that a lot of visualizations
+are bullshit: charts that do not have even the common decency to intentionally
+lie but are totally unconcerned about the state of the world or any practical
+utility. I suspect that bullshit charts take up a large fraction of the time
+and attention of actual visualization producers and consumers, and yet are
+seemingly absent from academic research into visualization design.
+",['\nMichael Correll\n'],"Preprint of paper accepted to alt.VIS 2021 workshop
+  https://altvis.github.io/",,http://arxiv.org/abs/2109.12975v1,cs.GL,"['cs.GL', 'cs.HC']",,,[]
+"Towards the Classification of Error-Related Potentials using Riemannian
+  Geometry",http://arxiv.org/abs/2109.13085v1,2021-09-21T06:42:47Z,2021-09-21T06:42:47Z,"  The error-related potential (ErrP) is an event-related potential (ERP) evoked
+by an experimental participant's recognition of an error during task
+performance. ErrPs, originally described by cognitive psychologists, have been
+adopted for use in brain-computer interfaces (BCIs) for the detection and
+correction of errors, and the online refinement of decoding algorithms.
+Riemannian geometry-based feature extraction and classification is a new
+approach to BCI which shows good performance in a range of experimental
+paradigms, but has yet to be applied to the classification of ErrPs. Here, we
+describe an experiment that elicited ErrPs in seven normal participants
+performing a visual discrimination task. Audio feedback was provided on each
+trial. We used multi-channel electroencephalogram (EEG) recordings to classify
+ErrPs (success/failure), comparing a Riemannian geometry-based method to a
+traditional approach that computes time-point features. Overall, the Riemannian
+approach outperformed the traditional approach (78.2% versus 75.9% accuracy, p
+< 0.05); this difference was statistically significant (p < 0.05) in three of
+seven participants. These results indicate that the Riemannian approach better
+captured the features from feedback-elicited ErrPs, and may have application in
+BCI for error detection and correction.
+","['\nYichen Tang\n', '\nJerry J. Zhang\n', '\nPaul M. Corballis\n', '\nLuke E. Hallum\n']","4 pages, 3 figures, 1 table, submitted to and accepted by the 43rd
+  Annual International Conference of the IEEE Engineering in Medicine and
+  Biology Society (EMBC), this is the accepted version",,http://arxiv.org/abs/2109.13085v1,cs.LG,"['cs.LG', 'cs.CV', 'cs.GL', 'cs.HC', 'I.5.4; J.3; J.m']",,,[]
+"Who Owns the Data? A Systematic Review at the Boundary of Information
+  Systems and Marketing",http://arxiv.org/abs/2107.14019v1,2021-07-29T14:31:44Z,2021-07-29T14:31:44Z,"  This paper gives a systematic research review at the boundary of the
+information systems (IS) and marketing disciplines. First, a historical
+overview of these disciplines is given to put the review into context. This is
+followed by a bibliographic analysis to select articles at the boundary of IS
+and marketing. Text analysis is then performed on the selected articles to
+group them into homogeneous research clusters, which are refined by selecting
+""distinct"" articles that best represent the clusters. The citation asymmetries
+between IS and marketing are noted and an overall conceptual model is created
+that describes the ""areas of collaboration"" between IS and marketing. Forward
+looking suggestions are made on how academic researchers can better interface
+with industry and how academic research at the boundary of IS and marketing can
+be further developed.
+","['\nStephen L. France\n', '\nMahyar Sharif Vaghefi\n', '\nBrett Kazandjian\n']",,,http://arxiv.org/abs/2107.14019v1,cs.DL,"['cs.DL', 'cs.GL', 'H.4.0; I.5.3; I.7.0']",,,[]
+The Factors of Code Reviewing Process to Ensure Software Quality,http://arxiv.org/abs/2107.10375v1,2021-07-21T22:17:11Z,2021-07-21T22:17:11Z,"  In the era of revolution, the development of softwares are increasing daily.
+The quality of software impacts the most in software development. To ensure the
+quality of the software it needs to be reviewed and updated. The effectiveness
+of the code review is that it ensures the quality of software and makes it
+updated. Code review is the best process that helps the developers to develop a
+system errorless. This report contains two different code review papers to be
+evaluated and find the influences that can affect the code reviewing process.
+The reader can easily understand the factor of the code review process which is
+directly associated with software quality assurance.
+",['\nShaykh Siddique\n'],"4 pages, 1 figures. Zenodo (2020)",,http://dx.doi.org/10.5281/zenodo.4902206,cs.SE,"['cs.SE', 'cs.GL']",10.5281/zenodo.4902206,,[]
+"Special Purpose Computers for Statistical Physics: achievements and
+  lessons",http://arxiv.org/abs/2107.02406v2,2021-07-06T06:01:14Z,2021-07-16T08:47:27Z,"  In the late 80s and 90s, theoretical physicists of the Landau Institute for
+Theoretical Physics designed and developed several specialized computers for
+challenging computational problems in the physics of phase transitions. These
+computers did not have a central processing unit. They optimize algorithms to
+handle elementary operations on integers -- read, write, compare, and count.
+The approach allowed them to achieve recording run times. Computers performed
+calculations three orders of magnitude faster than similar calculations on the
+world's best supercomputers. The approach made it possible to obtain
+fundamentally new results, some of which have not yet been surpassed in the
+accuracy of calculations. The report will present the main ideas for the
+development of specialized computers and the scientific results obtained with
+their help. The lessons of planning and execution of long-term complex
+scientific projects will also be discussed.
+",['\nLev N. Shchur\n'],"2020 Fifth International Conference ""History of Computing in the
+  Russia, former the Soviet Union and Council for Mutual Economic Assistance
+  countries"" (SORUCOM)",,http://dx.doi.org/10.1109/SORUCOM51654.2020.9465053,cond-mat.stat-mech,"['cond-mat.stat-mech', 'cs.GL', 'physics.comp-ph']",10.1109/SORUCOM51654.2020.9465053,,[]
+"A Guide for New Program Committee Members at Theoretical Computer
+  Science Conferences",http://arxiv.org/abs/2105.02773v1,2021-05-04T19:40:57Z,2021-05-04T19:40:57Z,"  In theoretical computer science, conferences play an important role in the
+scientific process. The decisions whether to accept or reject articles is taken
+by the program committee (PC) members. Serving on a PC for the first time can
+be a daunting experience. This guide will help new program-committee members to
+understand how the system works, and provide useful tips and guidelines. It
+discusses every phase of the paper-selection process, and the tasks associated
+to it.
+","['\nYfke Dulek\n', '\nStacey Jeffery\n', '\nChristian Majenz\n', '\nChristian Schaffner\n', '\nFlorian Speelman\n', '\nRonald de Wolf\n']","13 pages, comments and suggestions are welcome!",,http://arxiv.org/abs/2105.02773v1,cs.GL,['cs.GL'],,,[]
+Human-Machine Interaction in the Light of Turing and Wittgenstein,http://arxiv.org/abs/2105.05302v2,2021-04-30T07:32:41Z,2023-08-07T10:01:41Z,"  We propose a study of the constitution of meaning in human-computer
+interaction based on Turing and Wittgenstein's definitions of thought,
+understanding, and decision. We show by the comparative analysis of the
+conceptual similarities and differences between the two authors that the common
+sense between humans and machines is co-constituted in and from action and that
+it is precisely in this co-constitution that lies the social value of their
+interaction. This involves problematizing human-machine interaction around the
+question of what it means to ""follow a rule"" to define and distinguish the
+interpretative modes and decision-making behaviors of each. We conclude that
+the mutualization of signs that takes place through the human-machine dialogue
+is at the foundation of the constitution of a computerized society.
+",['\nCharles Bodon\nUP1 UFR10\n'],"in French language, Revue Implications Philosophiques, 2023",,http://arxiv.org/abs/2105.05302v2,cs.GL,['cs.GL'],,,['UP1 UFR10']
+Edsger W. Dijkstra: a Commemoration,http://arxiv.org/abs/2104.03392v1,2021-04-07T21:00:38Z,2021-04-07T21:00:38Z,"  This article is a multiauthored portrait of Edsger Wybe Dijkstra that
+consists of testimonials written by several friends, colleagues, and students
+of his. It provides unique insights into his personality, working style and
+habits, and his influence on other computer scientists, as a researcher,
+teacher, and mentor.
+","['\nKrzysztof R. Apt\n', '\nTony Hoare\n']","55 pages; originally appeared in E. W. Dijkstra Archive,
+  https://www.cs.utexas.edu/users/EWD/",,http://arxiv.org/abs/2104.03392v1,cs.GL,"['cs.GL', 'A.1']",,,[]
+What Kind of Person Wins the Turing Award?,http://arxiv.org/abs/2104.05636v1,2021-04-04T00:38:26Z,2021-04-04T00:38:26Z,"  Computer science has grown rapidly since its inception in the 1950s and the
+pioneers in the field are celebrated annually by the A.M. Turing Award. In this
+paper, we attempt to shed light on the path to influential computer scientists
+by examining the characteristics of the 72 Turing Award laureates. To achieve
+this goal, we build a comprehensive dataset of the Turing Award laureates and
+analyze their characteristics, including their personal information, family
+background, academic background, and industry experience. The FP-Growth
+algorithm is used for frequent feature mining. Logistic regression plot, pie
+chart, word cloud and map are generated accordingly for each of the interesting
+features to uncover insights regarding personal factors that drive influential
+work in the field of computer science. In particular, we show that the Turing
+Award laureates are most commonly white, male, married, United States citizen,
+and received a PhD degree. Our results also show that the age at which the
+laureate won the award increases over the years; most of the Turing Award
+laureates did not major in computer science; birth order is strongly related to
+the winners' success; and the number of citations is not as important as one
+would expect.
+","['\nZhongkai Shangguan\n', '\nZihe Zheng\n', '\nJiebo Luo\n']",,,http://arxiv.org/abs/2104.05636v1,cs.GL,['cs.GL'],,,[]
+The AI Index 2021 Annual Report,http://arxiv.org/abs/2103.06312v1,2021-03-09T02:29:44Z,2021-03-09T02:29:44Z,"  Welcome to the fourth edition of the AI Index Report. This year we
+significantly expanded the amount of data available in the report, worked with
+a broader set of external organizations to calibrate our data, and deepened our
+connections with the Stanford Institute for Human-Centered Artificial
+Intelligence (HAI). The AI Index Report tracks, collates, distills, and
+visualizes data related to artificial intelligence. Its mission is to provide
+unbiased, rigorously vetted, and globally sourced data for policymakers,
+researchers, executives, journalists, and the general public to develop
+intuitions about the complex field of AI. The report aims to be the most
+credible and authoritative source for data and insights about AI in the world.
+","['\nDaniel Zhang\n', '\nSaurabh Mishra\n', '\nErik Brynjolfsson\n', '\nJohn Etchemendy\n', '\nDeep Ganguli\n', '\nBarbara Grosz\n', '\nTerah Lyons\n', '\nJames Manyika\n', '\nJuan Carlos Niebles\n', '\nMichael Sellitto\n', '\nYoav Shoham\n', '\nJack Clark\n', '\nRaymond Perrault\n']",,,http://arxiv.org/abs/2103.06312v1,cs.AI,"['cs.AI', 'cs.GL']",,,[]
+"The Slodderwetenschap (Sloppy Science) of Stochastic Parrots -- A Plea
+  for Science to NOT take the Route Advocated by Gebru and Bender",http://arxiv.org/abs/2101.10098v1,2021-01-11T19:55:09Z,2021-01-11T19:55:09Z,"  This article is a position paper written in reaction to the now-infamous
+paper titled ""On the Dangers of Stochastic Parrots: Can Language Models Be Too
+Big?"" by Timnit Gebru, Emily Bender, and others who were, as of the date of
+this writing, still unnamed. I find the ethics of the Parrot Paper lacking, and
+in that lack, I worry about the direction in which computer science, machine
+learning, and artificial intelligence are heading. At best, I would describe
+the argumentation and evidentiary practices embodied in the Parrot Paper as
+Slodderwetenschap (Dutch for Sloppy Science) -- a word which the academic world
+last widely used in conjunction with the Diederik Stapel affair in psychology
+[2]. What is missing in the Parrot Paper are three critical elements: 1)
+acknowledgment that it is a position paper/advocacy piece rather than research,
+2) explicit articulation of the critical presuppositions, and 3) explicit
+consideration of cost/benefit trade-offs rather than a mere recitation of
+potential ""harms"" as if benefits did not matter. To leave out these three
+elements is not good practice for either science or research.
+",['\nMichael Lissack\n'],,,http://arxiv.org/abs/2101.10098v1,cs.CY,"['cs.CY', 'cs.AI', 'cs.GL', 'physics.hist-ph']",,,[]
+Analog Computation and Representation,http://arxiv.org/abs/2012.05965v1,2020-12-10T20:44:48Z,2020-12-10T20:44:48Z,"  Relative to digital computation, analog computation has been neglected in the
+philosophical literature. To the extent that attention has been paid to analog
+computation, it has been misunderstood. The received view -- that analog
+computation has to do essentially with continuity -- is simply wrong, as shown
+by careful attention to historical examples of discontinuous, discrete analog
+computers. Instead of the received view, I develop an account of analog
+computation in terms of a particular type of analog representation that allows
+for discontinuity. This account thus characterizes all types of analog
+computation, whether continuous or discrete. Furthermore, the structure of this
+account can be generalized to other types of computation: analog computation
+essentially involves analog representation, whereas digital computation
+essentially involves digital representation. Besides being a necessary
+component of a complete philosophical understanding of computation in general,
+understanding analog computation is important for computational explanation in
+contemporary neuroscience and cognitive science.
+",['\nCorey J. Maley\n'],To be published in British Journal for the Philosophy of Science,,http://arxiv.org/abs/2012.05965v1,cs.GL,"['cs.GL', 'q-bio.NC', 'F.m; K.2']",,,[]
+Achieving a quantum smart workforce,http://arxiv.org/abs/2010.13778v1,2020-10-23T21:24:57Z,2020-10-23T21:24:57Z,"  Interest in building dedicated Quantum Information Science and Engineering
+(QISE) education programs has greatly expanded in recent years. These programs
+are inherently convergent, complex, often resource intensive and likely require
+collaboration with a broad variety of stakeholders. In order to address this
+combination of challenges, we have captured ideas from many members in the
+community. This manuscript not only addresses policy makers and funding
+agencies (both public and private and from the regional to the international
+level) but also contains needs identified by industry leaders and discusses the
+difficulties inherent in creating an inclusive QISE curriculum. We report on
+the status of eighteen post-secondary education programs in QISE and provide
+guidance for building new programs. Lastly, we encourage the development of a
+comprehensive strategic plan for quantum education and workforce development as
+a means to make the most of the ongoing substantial investments being made in
+QISE.
+","['\nClarice D. Aiello\n', '\nD. D. Awschalom\n', '\nHannes Bernien\n', '\nTina Brower-Thomas\n', '\nKenneth R. Brown\n', '\nTodd A. Brun\n', '\nJustin R. Caram\n', '\nEric Chitambar\n', '\nRosa Di Felice\n', '\nMichael F. J. Fox\n', '\nStephan Haas\n', '\nAlexander W. Holleitner\n', '\nEric R. Hudson\n', '\nJeffrey H. Hunt\n', '\nRobert Joynt\n', '\nScott Koziol\n', '\nH. J. Lewandowski\n', '\nDouglas T. McClure\n', '\nJens Palsberg\n', '\nGina Passante\n', '\nKristen L. Pudenz\n', '\nChristopher J. K. Richardson\n', '\nJessica L. Rosenberg\n', '\nR. S. Ross\n', '\nMark Saffman\n', '\nM. Singh\n', '\nDavid W. Steuerman\n', '\nChad Stark\n', '\nJos Thijssen\n', '\nA. Nick Vamivakas\n', '\nJames D. Whitfield\n', '\nBenjamin M. Zwickl\n']","18 pages, 2 figures, 1 table",Quantum Sci. Technol. 6 030501 (2021),http://dx.doi.org/10.1088/2058-9565/abfa64,physics.ed-ph,"['physics.ed-ph', 'cs.ET', 'cs.GL', 'quant-ph']",10.1088/2058-9565/abfa64,,[]
+Empirical Standards for Software Engineering Research,http://arxiv.org/abs/2010.03525v2,2020-10-07T17:10:28Z,2021-03-04T16:34:34Z,"  Empirical Standards are natural-language models of a scientific community's
+expectations for a specific kind of study (e.g. a questionnaire survey). The
+ACM SIGSOFT Paper and Peer Review Quality Initiative generated empirical
+standards for research methods commonly used in software engineering. These
+living documents, which should be continuously revised to reflect evolving
+consensus around research best practices, will improve research quality and
+make peer review more effective, reliable, transparent and fair.
+","['\nPaul Ralph\n', '\nNauman bin Ali\n', '\nSebastian Baltes\n', '\nDomenico Bianculli\n', '\nJessica Diaz\n', '\nYvonne Dittrich\n', '\nNeil Ernst\n', '\nMichael Felderer\n', '\nRobert Feldt\n', '\nAntonio Filieri\n', '\nBreno Bernard Nicolau de França\n', '\nCarlo Alberto Furia\n', '\nGreg Gay\n', '\nNicolas Gold\n', '\nDaniel Graziotin\n', '\nPinjia He\n', '\nRashina Hoda\n', '\nNatalia Juristo\n', '\nBarbara Kitchenham\n', '\nValentina Lenarduzzi\n', '\nJorge Martínez\n', '\nJorge Melegati\n', '\nDaniel Mendez\n', '\nTim Menzies\n', '\nJefferson Molleri\n', '\nDietmar Pfahl\n', '\nRomain Robbes\n', '\nDaniel Russo\n', '\nNyyti Saarimäki\n', '\nFederica Sarro\n', '\nDavide Taibi\n', '\nJanet Siegmund\n', '\nDiomidis Spinellis\n', '\nMiroslaw Staron\n', '\nKlaas Stol\n', '\nMargaret-Anne Storey\n', '\nDavide Taibi\n', '\nDamian Tamburri\n', '\nMarco Torchiano\n', '\nChristoph Treude\n', '\nBurak Turhan\n', '\nXiaofeng Wang\n', '\nSira Vegas\n']","For the complete standards, supplements and other resources, see
+  https://github.com/acmsigsoft/EmpiricalStandards",,http://arxiv.org/abs/2010.03525v2,cs.SE,"['cs.SE', 'cs.GL']",,,[]
+Edsger Dijkstra. The Man Who Carried Computer Science on His Shoulders,http://arxiv.org/abs/2010.00506v1,2020-10-01T15:55:51Z,2020-10-01T15:55:51Z,"  This a biographical essay about Edsger Wybe Dijkstra.
+",['\nKrzysztof R. Apt\n'],"12 pages. Originally appeared in Inference, Volume 5, Issue 3, 2020,
+  see
+  https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders",,http://arxiv.org/abs/2010.00506v1,cs.GL,"['cs.GL', 'A.1']",,,[]
+"From the digital data revolution to digital health and digital economy
+  toward a digital society: Pervasiveness of Artificial Intelligence",http://arxiv.org/abs/2008.12672v2,2020-08-03T17:15:18Z,2020-11-03T12:02:16Z,"  Technological progress has led to powerful computers and communication
+technologies that penetrate nowadays all areas of science, industry and our
+private lives. As a consequence, all these areas are generating digital traces
+of data amounting to big data resources. This opens unprecedented opportunities
+but also challenges toward the analysis, management, interpretation and
+utilization of these data. Fortunately, recent breakthroughs in deep learning
+algorithms complement now machine learning and statistics methods for an
+efficient analysis of such data. Furthermore, advances in text mining and
+natural language processing, e.g., word-embedding methods, enable also the
+processing of large amounts of text data from diverse sources as governmental
+reports, blog entries in social media or clinical health records of patients.
+In this paper, we present a perspective on the role of artificial intelligence
+in these developments and discuss also potential problems we are facing in a
+digital society.
+",['\nFrank Emmert-Streib\n'],,,http://dx.doi.org/10.3390/make3010014,cs.GL,['cs.GL'],10.3390/make3010014,,[]
+"Sulla decifratura di Enigma -- Come un reverendo del XVIII secolo
+  contribuì alla sconfitta degli U-boot tedeschi durante la Seconda Guerra
+  Mondiale",http://arxiv.org/abs/2008.03122v1,2020-07-17T05:04:37Z,2020-07-17T05:04:37Z,"  This article, written in Italian language, explores the contribution given by
+Bayes' rule and by subjective probability in the work at Bletchley Park towards
+cracking Enigma cyphered messages during WWII.
+  --
+  In questo articolo, scritto in Italiano, esploriamo il contributo dato dal
+teorema di Bayes e dalle idee della probabilit\`a soggettiva nel lavoro
+compiuto a Bletchley Park che ha portato a decifrare i messaggi cifrati con
+macchine Enigma durante la Seconda Guerra Mondiale.
+","['\nFabio S. Priuli\n', '\nClaudia Violante\n']","39 pages, 10 figures, in Italian",,http://arxiv.org/abs/2008.03122v1,cs.GL,"['cs.GL', 'cs.CR', 'stat.OT']",,,[]
+MiniConf -- A Virtual Conference Framework,http://arxiv.org/abs/2007.12238v1,2020-07-10T17:58:22Z,2020-07-10T17:58:22Z,"  MiniConf is a framework for hosting virtual academic conferences motivated by
+the sudden inability for these events to be hosted globally. The framework is
+designed to be global and asynchronous, interactive, and to promote browsing
+and discovery. We developed the system to be sustainable and maintainable, in
+particular ensuring that it is open-source, easy to setup, and scalable on
+minimal hardware. In this technical report, we discuss design decisions,
+provide technical detail, and show examples of a case study deployment.
+","['\nAlexander M. Rush\n', '\nHendrik Strobelt\n']",,,http://arxiv.org/abs/2007.12238v1,cs.HC,"['cs.HC', 'cs.GL']",,,[]
+Value-based Engineering for Ethics by Design,http://arxiv.org/abs/2004.13676v2,2020-04-28T17:30:10Z,2020-10-23T12:28:17Z,"  This article gives a methodological overview of Value-based Engineering for
+ethics by design. It discusses key challenges and measures involved in
+eliciting, conceptualizing, prioritizing and respecting values in system
+design. Thereby it draws from software engineering, value sensitive design,
+design thinking and participatory design as well as from philosophical sources,
+especially Material Ethics of Value. The article recognizes timely challenges
+for Value-based Engineering, such as compatibility with agile forms of system
+development, responsibility in hardly controllable ecosystems of interconnected
+services, fearless integration of external stakeholders and the difficulty in
+measuring the ethicality of a system. Finally, the Value-based Engineering
+methodology presented here benefits from learnings collected in the IEEE P7000
+standardization process as well as from a case study. P7000 has been set up by
+IEEE to establish a process model, which addresses ethical considerations
+throughout the various stages of system initiation, analysis and design.
+","['\nSarah Spiekermann\n', '\nTill Winkler\n']",16 pages content reduction,,http://arxiv.org/abs/2004.13676v2,cs.CY,"['cs.CY', 'cs.GL']",,,[]
+"An Environment for Sustainable Research Software in Germany and Beyond:
+  Current State, Open Challenges, and Call for Action",http://arxiv.org/abs/2005.01469v2,2020-04-27T11:07:21Z,2020-05-05T16:42:37Z,"  Research software has become a central asset in academic research. It
+optimizes existing and enables new research methods, implements and embeds
+research knowledge, and constitutes an essential research product in itself.
+Research software must be sustainable in order to understand, replicate,
+reproduce, and build upon existing research or conduct new research
+effectively. In other words, software must be available, discoverable, usable,
+and adaptable to new needs, both now and in the future. Research software
+therefore requires an environment that supports sustainability. Hence, a change
+is needed in the way research software development and maintenance are
+currently motivated, incentivized, funded, structurally and infrastructurally
+supported, and legally treated. Failing to do so will threaten the quality and
+validity of research. In this paper, we identify challenges for research
+software sustainability in Germany and beyond, in terms of motivation,
+selection, research software engineering personnel, funding, infrastructure,
+and legal aspects. Besides researchers, we specifically address political and
+academic decision-makers to increase awareness of the importance and needs of
+sustainable research software practices. In particular, we recommend strategies
+and measures to create an environment for sustainable research software, with
+the ultimate goal to ensure that software-driven research is valid,
+reproducible and sustainable, and that software is recognized as a first class
+citizen in research. This paper is the outcome of two workshops run in Germany
+in 2019, at deRSE19 - the first International Conference of Research Software
+Engineers in Germany - and a dedicated DFG-supported follow-up workshop in
+Berlin.
+","['\nHartwig Anzt\n', '\nFelix Bach\n', '\nStephan Druskat\n', '\nFrank Löffler\n', '\nAxel Loewe\n', '\nBernhard Y. Renard\n', '\nGunnar Seemann\n', '\nAlexander Struck\n', '\nElke Achhammer\n', '\nPiush Aggarwal\n', '\nFranziska Appel\n', '\nMichael Bader\n', '\nLutz Brusch\n', '\nChristian Busse\n', '\nGerasimos Chourdakis\n', '\nPiotr W. Dabrowski\n', '\nPeter Ebert\n', '\nBernd Flemisch\n', '\nSven Friedl\n', '\nBernadette Fritzsch\n', '\nMaximilian D. Funk\n', '\nVolker Gast\n', '\nFlorian Goth\n', '\nJean-Noël Grad\n', '\nSibylle Hermann\n', '\nFlorian Hohmann\n', '\nStephan Janosch\n', '\nDominik Kutra\n', '\nJan Linxweiler\n', '\nThilo Muth\n', '\nWolfgang Peters-Kottig\n', '\nFabian Rack\n', '\nFabian H. C. Raters\n', '\nStephan Rave\n', '\nGuido Reina\n', '\nMalte Reißig\n', '\nTimo Ropinski\n', '\nJoerg Schaarschmidt\n', '\nHeidi Seibold\n', '\nJan P. Thiele\n', '\nBenjamin Uekerman\n', '\nStefan Unger\n', '\nRudolf Weeber\n']","Official position paper 001 of de-RSE e.V. - Society for Research
+  Software (https://de-rse.org) --- 16 pages, 1 figure + 1 page supplementary
+  material, 4 figures --- Submitted to the F1000 Research Science Policy
+  Research Gateway on 2020-04-03",F1000Research 2020,http://dx.doi.org/10.12688/f1000research.23224.1,cs.GL,"['cs.GL', 'cs.SE']",10.12688/f1000research.23224.1,,[]
+Knowledge Scientists: Unlocking the data-driven organization,http://arxiv.org/abs/2004.07917v1,2020-04-16T20:14:20Z,2020-04-16T20:14:20Z,"  Organizations across all sectors are increasingly undergoing deep
+transformation and restructuring towards data-driven operations. The central
+role of data highlights the need for reliable and clean data. Unreliable,
+erroneous, and incomplete data lead to critical bottlenecks in processing
+pipelines and, ultimately, service failures, which are disastrous for the
+competitive performance of the organization. Given its central importance,
+those organizations which recognize and react to the need for reliable data
+will have the advantage in the coming decade. We argue that the technologies
+for reliable data are driven by distinct concerns and expertise which
+complement those of the data scientist and the data engineer. Those
+organizations which identify the central importance of meaningful, explainable,
+reproducible, and maintainable data will be at the forefront of the
+democratization of reliable data. We call the new role which must be developed
+to fill this critical need the Knowledge Scientist. The organizational
+structures, tools, methodologies and techniques to support and make possible
+the work of knowledge scientists are still in their infancy. As organizations
+not only use data but increasingly rely on data, it is time to empower the
+people who are central to this transformation.
+","['\nGeorge Fletcher\n', '\nPaul Groth\n', '\nJuan Sequeda\n']",,,http://arxiv.org/abs/2004.07917v1,cs.DB,"['cs.DB', 'cs.CY', 'cs.GL']",,,[]
+"Artificial Intelligence, Chaos, Prediction and Understanding in Science",http://arxiv.org/abs/2003.01771v2,2020-03-03T20:10:40Z,2020-03-29T17:31:50Z,"  Machine learning and deep learning techniques are contributing much to the
+advancement of science. Their powerful predictive capabilities appear in
+numerous disciplines, including chaotic dynamics, but they miss understanding.
+The main thesis here is that prediction and understanding are two very
+different and important ideas that should guide us about the progress of
+science. Furthermore, it is emphasized the important role played by that
+nonlinear dynamical systems for the process of understanding. The path of the
+future of science will be marked by a constructive dialogue between big data
+and big theory, without which we cannot understand.
+",['\nMiguel A. F. Sanjuan\n'],,,http://dx.doi.org/10.1142/S021812742150173X,cs.GL,['cs.GL'],10.1142/S021812742150173X,,[]
+"Expression of the Holtsmark function in terms of hypergeometric $_2F_2$
+  and Airy $\mathrm{Bi}$ functions",http://arxiv.org/abs/2001.11893v3,2020-01-30T15:15:59Z,2020-04-19T11:13:27Z,"  The Holtsmark distribution has applications in plasma physics, for the
+electric-microfield distribution involved in spectral line shapes for instance,
+as well as in astrophysics for the distribution of gravitating bodies. It is
+one of the few examples of a stable distribution for which a closed-form
+expression of the probability density function is known. However, the latter is
+not expressible in terms of elementary functions. In the present work, we
+mention that the Holtsmark probability density function can be expressed in
+terms of hypergeometric function $_2F_2$ and of Airy function of the second
+kind $\mathrm{Bi}$ and its derivative. The new formula is simpler than the one
+proposed by Lee involving $_2F_3$ and $_3F_4$ hypergeometric functions.
+",['\nJean-Christophe Pain\n'],,,http://arxiv.org/abs/2001.11893v3,math-ph,"['math-ph', 'astro-ph.GA', 'cs.GL', 'math.MP', 'physics.atom-ph']",,,[]
+Sustainable Research Software Hand-Over,http://arxiv.org/abs/1909.09469v2,2019-09-19T05:57:18Z,2020-09-30T11:31:26Z,"  Scientific software projects evolve rapidly in their initial development
+phase, yet at the end of a funding period, the completion of a research
+project, thesis, or publication, further engagement in the project may slow
+down or cease completely. To retain the invested effort for the sciences, this
+software needs to be preserved or handed over to a succeeding developer or
+team, such as the next generation of (PhD) students.
+  Comparable guides provide top-down recommendations for project leads. This
+paper intends to be a bottom-up approach for sustainable hand-over processes
+from a developer's perspective. An important characteristic in this regard is
+the project's size, by which this guideline is structured. Furthermore,
+checklists are provided, which can serve as a practical guide for implementing
+the proposed measures.
+","['\nJörg Fehr\n', '\nChristian Himpe\n', '\nStephan Rave\n', '\nJens Saak\n']",,"Journal of Open Research Software, 9(1), 2021",http://dx.doi.org/10.5334/jors.307,cs.GL,"['cs.GL', 'cs.SE', '68N30, 97N80, 97P99']",10.5334/jors.307,,[]
+Oprema -- The Relay Computer of Carl Zeiss Jena,http://arxiv.org/abs/1908.09549v1,2019-08-26T09:19:55Z,2019-08-26T09:19:55Z,"  The Oprema (Optikrechenmaschine = computer for optical calculations) was a
+relay computer whose development was initiated by Herbert Kortum and which was
+designed and built by a team under the leadership of Wilhelm Kaemmerer at Carl
+Zeiss Jena (CZJ) in 1954 and 1955. Basic experiments, design and construction
+of machine-1 were all done, partly concurrently, in the remarkably short time
+of about 14 months. Shortly after the electronic G 2 of Heinz Billing in
+Goettingen it was the 7th universal computer in Germany and the 1st in the GDR.
+The Oprema consisted of two identical machines. One machine consisted of about
+8,300 relays, 45,000 selenium rectifiers and 250 km cable. The main reason for
+the construction of the Oprema was the computational needs of CZJ, which was
+the leading company for optics and precision mechanics in the GDR. During its
+lifetime (1955-1963) the Oprema was applied by CZJ and a number of other
+institutes and companies in the GDR. The paper presents new details of the
+Oprema project and of the arithmetic operations implemented in the Oprema.
+Additionally, it covers briefly the lives of the two protagonists, W. Kaemmerer
+and H. Kortum, and draws some comparisons with other early projects, namely
+Colossus, ASCC/Mark 1 and ENIAC. Finally, it discusses the question, whether
+Kortum is a German computer pioneer.
+",['\nJuergen F. H. Winkler\n'],"33 pages, 18 figures, 2 tables",,http://arxiv.org/abs/1908.09549v1,cs.GL,"['cs.GL', 'B.0; K.2']",,,[]
+Seven Principles for Effective Scientific Big-DataSystems,http://arxiv.org/abs/1908.03356v2,2019-08-09T08:12:54Z,2020-06-25T16:14:43Z,"  We should be in a golden age of scientific discovery, given that we have more
+data and more compute power available than ever before, plus a new generation
+of algorithms that can learn effectively from data. But paradoxically, in many
+data-driven fields, the eureka moments are becoming increasingly rare.
+Scientists are struggling to keep pace with the explosion in the volume and
+complexity of scientific data. We describe here a few simple architectural
+principles that we believe are essential in order to create effective, robust,
+and flexible platforms that make the best use of emerging technology to deal
+with the exponential growth of scientific data.
+","['\nNiall H. Robinson\n', '\nJoe Hamman\n', '\nRyan Abernathey\n']",,,http://arxiv.org/abs/1908.03356v2,cs.DC,"['cs.DC', 'cs.GL']",,,[]
+The need for modern computing paradigm: Science applied to computing,http://arxiv.org/abs/1908.02651v3,2019-08-02T07:00:41Z,2020-01-05T18:03:31Z,"  More than hundred years ago the 'classic physics' was it in its full power,
+with just a few unexplained phenomena; which however led to a revolution and
+the development of the 'modern physics'. Today the computing is in a similar
+position: computing is a sound success story, with exponentially growing
+utilization, but with a growing number of difficulties and unexpected issues as
+moving towards extreme utilization conditions. In physics studying the nature
+under extreme conditions has lead to the understanding of the relativistic and
+quantal behavior. Quite similarly in computing some phenomena, acquired in
+connection with extreme (computing) conditions, cannot be understood based on
+of the 'classic computing paradigm'. The paper draws the attention that under
+extreme conditions qualitatively different behaviors may be encountered in both
+physics and computing, and pinpointing that certain, formerly unnoticed or
+neglected aspects enable to explain new phenomena as well as to enhance
+computing features. Moreover, an idea of modern computing paradigm
+implementation is proposed.
+",['\nJános Végh\n'],"10 pages, 6 figures",,http://arxiv.org/abs/1908.02651v3,cs.GL,['cs.GL'],,,[]
+Kolmogorov complexity in the USSR (1975--1982): isolation and its end,http://arxiv.org/abs/1907.05056v1,2019-07-11T08:52:25Z,2019-07-11T08:52:25Z,"  These reminiscences are about the ""dark ages"" of algorithmic information
+theory in the USSR. After a great interest in this topic in 1960s and the
+beginning of 1970s the number of people working in this area in the USSR
+decreased significantly. At that time L.A. Levin published a bunch of papers
+that were seminal for the modern algorithmic information theory. Then he left
+the USSR, and the new wave of interest was triggered by the talk of A.N.
+Kolmogorov at a Moscow State (Lomonosov) University Mathematical Department
+(Logic and Algorithms Division) seminar organized by him; several younger
+researchers obtained some new results in algorithmic information theory.
+","[""\nV. V. V'yugin\n""]","English (13 pages) / Russian (13 pages) versions, 1 photo",,http://arxiv.org/abs/1907.05056v1,cs.GL,"['cs.GL', 'cs.IT', 'math.IT']",,,[]
+"Challenges in IT Operations Management at a German University Chair --
+  Ten Years in Retrospect",http://arxiv.org/abs/1907.01874v1,2019-07-03T17:42:17Z,2019-07-03T17:42:17Z,"  Over the last two decades, the majority of German universities adopted
+various characteristics of the prevailing North-American academic system,
+resulting in significant changes in several key areas that include, e.g., both
+teaching and research. The universities' internal organizational structures,
+however, still follow a traditional, decentralized scheme implementing an
+additional organizational level -- the Chair -- effectively a ""mini department""
+with dedicated staff, budget and infrastructure. Although the Technical
+University of Munich (TUM) has been establishing a more centralized scheme for
+many administrative tasks over the past decade, the transition from its
+distributed to a centralized information technology (IT) administration and
+infrastructure is still an ongoing process. In case of the authors' chair, this
+migration so far included handing over all network-related operations to the
+joint compute center, consolidating the Chair's legacy server system in terms
+of both hardware architectures and operating systems and, lately, moving
+selected services to replacements operated by Department or University. With
+requirements, individuals and organizations constantly shifting, this process,
+however, is neither close to completion nor particularly unique to TUM. In this
+paper, we will thus share our experiences w.r.t. this IT migration as we
+believe both that many of the other German universities might be facing similar
+challenges and that, in the future, North-American universities - currently not
+implementing the chair layer and instead relying on a centralized IT
+infrastructure - could need a more decentralized solution. Hoping that both
+benefit from this journey, we thus present the design, commissioning and
+evolution of our infrastructure.
+","['\nMartin Geier\nTechnical University of Munich\n', '\nSamarjit Chakraborty\nTechnical University of Munich\n']","7 pages, 2 figures",,http://arxiv.org/abs/1907.01874v1,cs.GL,"['cs.GL', 'cs.CY']",,,"['Technical University of Munich', 'Technical University of Munich']"
+On modelling the emergence of logical thinking,http://arxiv.org/abs/1905.09730v1,2019-05-23T15:46:13Z,2019-05-23T15:46:13Z,"  Recent progress in machine learning techniques have revived interest in
+building artificial general intelligence using these particular tools. There
+has been a tremendous success in applying them for narrow intellectual tasks
+such as pattern recognition, natural language processing and playing Go. The
+latter application vastly outperforms the strongest human player in recent
+years. However, these tasks are formalized by people in such ways that it has
+become ""easy"" for automated recipes to find better solutions than humans do. In
+the sense of John Searle's Chinese Room Argument, the computer playing Go does
+not actually understand anything from the game. Thinking like a human mind
+requires to go beyond the curve fitting paradigm of current systems. There is a
+fundamental limit to what they can achieve currently as only very specific
+problem formalization can increase their performances in particular tasks. In
+this paper, we argue than one of the most important aspects of the human mind
+is its capacity for logical thinking, which gives rise to many intellectual
+expressions that differentiate us from animal brains. We propose to model the
+emergence of logical thinking based on Piaget's theory of cognitive
+development.
+","['\nCristian Ivan\n', '\nBipin Indurkhya\n']",,,http://arxiv.org/abs/1905.09730v1,cs.AI,"['cs.AI', 'cs.GL']",,,[]
+Retracing and assessing the CEP project,http://arxiv.org/abs/1904.00944v1,2019-03-25T23:40:20Z,2019-03-25T23:40:20Z,"  The last decade witnessed a renewed interest in the development of the
+Italian computer industry and in the role of the Fifties pioneers in Rome,
+Milan, Ivrea, and Pisa. The aim of the paper is to retrace some steps of the
+CEP project, carried out by the University of Pisa in collaboration with
+Olivetti, by reassessing the documents preserved in the University archives.
+The project was a seminal enterprise for Italy, and among its accomplishments
+it delivered in 1957 the first Italian computer. The mix of public sector
+funding and industrial foretelling witnessed by the project is one of the
+leading examples in Italy of best practices, and its success paved the way for
+the birth of Computer Science in the country as an industry as well as a
+scientific discipline.
+","['\nGiovanni A. Cignoni\n', '\nFabio Gadducci\n']","12 pages, 1 figure, 1 table",,http://arxiv.org/abs/1904.00944v1,cs.GL,"['cs.GL', '01-02 Research exposition, 68-03 Historical', 'K.2']",,,[]
+"Solving the Black Box Problem: A Normative Framework for Explainable
+  Artificial Intelligence",http://arxiv.org/abs/1903.04361v2,2019-03-03T11:14:42Z,2019-07-04T19:02:49Z,"  Many of the computing systems programmed using Machine Learning are opaque:
+it is difficult to know why they do what they do or how they work. The
+Explainable Artificial Intelligence research program aims to develop analytic
+techniques with which to render opaque computing systems transparent, but lacks
+a normative framework with which to evaluate these techniques' explanatory
+success. The aim of the present discussion is to develop such a framework,
+while paying particular attention to different stakeholders' distinct
+explanatory requirements. Building on an analysis of 'opacity' from philosophy
+of science, this framework is modeled after David Marr's influential account of
+explanation in cognitive science. Thus, the framework distinguishes between the
+different questions that might be asked about an opaque computing system, and
+specifies the general way in which these questions should be answered. By
+applying this normative framework to current techniques such as input
+heatmapping, feature-detector identification, and diagnostic classification, it
+will be possible to determine whether and to what extent the Black Box Problem
+can be solved.
+",['\nCarlos Zednik\n'],Manuscript submitted for publication,,http://arxiv.org/abs/1903.04361v2,cs.GL,['cs.GL'],,,[]
+100+ Metrics for Software Startups - A Multi-Vocal Literature Review,http://arxiv.org/abs/1901.04819v1,2019-01-15T13:47:06Z,2019-01-15T13:47:06Z,"  Metrics can be used by businesses to make more objective decisions based on
+data. Software startups in particular are characterized by the uncertain or
+even chaotic nature of the contexts in which they operate. Using data in the
+form of metrics can help software startups to make the right decisions amidst
+uncertainty and limited resources. However, whereas conventional business
+metrics and software metrics have been studied in the past, metrics in the
+spe-cific context of software startup are not widely covered within academic
+literature. To promote research in this area and to create a starting point for
+it, we have conducted a multi-vocal literature review focusing on practitioner
+literature in order to compile a list of metrics used by software startups.
+Said list is intended to serve as a basis for further research in the area, as
+the metrics in it are based on suggestions made by practitioners and not
+empirically verified.
+","['\nKai-Kristian Kemell\n', '\nXiaofeng Wang\n', '\nAnh Nguyen-Duc\n', '\nJason Grendus\n', '\nTuure Tuunanen\n', '\nPekka Abrahamsson\n']","Published in the proceedings of The 1st Software-intensive Business
+  Workshop on Start-ups, Platforms and Ecosystems (SiBW 2018), Espoo, December
+  3rd, 2018. http://ceur-ws.org/Vol-2305/",,http://arxiv.org/abs/1901.04819v1,cs.GL,"['cs.GL', 'econ.GN', 'q-fin.EC']",,,[]
+Towards a Science of Mind,http://arxiv.org/abs/1811.06825v3,2018-11-06T18:02:40Z,2019-07-29T16:58:06Z,"  The ancient mind/body problem continues to be one of deepest mysteries of
+science and of the human spirit. Despite major advances in many fields, there
+is still no plausible link between subjective experience (qualia) and its
+realization in the body. This paper outlines some of the elements of a rigorous
+science of mind (SoM) - key ideas include scientific realism of mind, agnostic
+mysterianism, careful attention to language, and a focus on concrete
+(touchstone) questions and results. A core suggestion is to focus effort on the
+(still mysterious) mapping from neural activity to subjective experience.
+",['\nJerome Feldman\nICSI and UC Berkeley\n'],"18 pages and 1 Figure. The ancient mind/body remains a scientific and
+  existential mystery. This article develops a methodology for an incremental
+  Science of Mind and describes some ongoing prospects and successes. Updates
+  include additional phenomena, including emotions,and several more references.
+  A major addition is a postulated general (mysterious) brain-mind mapping",,http://dx.doi.org/10.1007/s41470-019-00041-4,cs.GL,"['cs.GL', 'cs.AI', 'q-bio.NC']",10.1007/s41470-019-00041-4,,['ICSI and UC Berkeley']
+The anatomy of Reddit: An overview of academic research,http://arxiv.org/abs/1810.10881v2,2018-10-25T13:57:21Z,2020-06-04T07:44:12Z,"  Online forums provide rich environments where users may post questions and
+comments about different topics. Understanding how people behave in online
+forums may shed light on the fundamental mechanisms by which collective
+thinking emerges in a group of individuals, but it has also important practical
+applications, for instance to improve user experience, increase engagement or
+automatically identify bullying. Importantly, the datasets generated by the
+activity of the users are often openly available for researchers, in contrast
+to other sources of data in computational social science. In this survey, we
+map the main research directions that arose in recent years and focus primarily
+on the most popular platform, Reddit. We distinguish and categorise research
+depending on their focus on the posts or on the users, and point to different
+types of methodologies to extract information from the structure and dynamics
+of the system. We emphasize the diversity and richness of the research in terms
+of questions and methods, and suggest future avenues of research.
+","['\nAlexey N. Medvedev\n', '\nRenaud Lambiotte\n', '\nJean-Charles Delvenne\n']","21 pages, 7 figures, 2 tables","In: Ghanbarnejad F., Saha Roy R., Karimi F., Delvenne JC., Mitra
+  B. (eds) Dynamics On and Of Complex Networks III. DOOCN 2017. Springer
+  Proceedings in Complexity. Springer, Cham",http://dx.doi.org/10.1007/978-3-030-14683-2_9,cs.SI,"['cs.SI', 'cs.GL']",10.1007/978-3-030-14683-2_9,,[]
+Human Indignity: From Legal AI Personhood to Selfish Memes,http://arxiv.org/abs/1810.02724v1,2018-10-02T20:01:43Z,2018-10-02T20:01:43Z,"  It is possible to rely on current corporate law to grant legal personhood to
+Artificially Intelligent (AI) agents. In this paper, after introducing pathways
+to AI personhood, we analyze consequences of such AI empowerment on human
+dignity, human safety and AI rights. We emphasize possibility of creating
+selfish memes and legal system hacking in the context of artificial entities.
+Finally, we consider some potential solutions for addressing described
+problems.
+",['\nRoman V. Yampolskiy\n'],,,http://arxiv.org/abs/1810.02724v1,cs.GL,"['cs.GL', 'cs.AI', 'cs.CY']",,,[]
+Big Data: the End of the Scientific Method?,http://arxiv.org/abs/1807.09515v1,2018-07-25T10:26:51Z,2018-07-25T10:26:51Z,"  We argue that the boldest claims of Big Data are in need of revision and
+toning-down, in view of a few basic lessons learned from the science of complex
+systems. We point out that, once the most extravagant claims of Big Data are
+properly discarded, a synergistic merging of BD with big theory offers
+considerable potential to spawn a new scientific paradigm capable of overcoming
+some of the major barriers confronted by the modern scientific method
+originating with Galileo. These obstacles are due to the presence of
+nonlinearity, nonlocality and hyperdimensions which one encounters frequently
+in multiscale modelling.
+","['\nSauro Succi\n', '\nPeter V. Coveney\n']",,,http://dx.doi.org/10.1098/rsta.2018.0145,cs.GL,['cs.GL'],10.1098/rsta.2018.0145,,[]
+"A man with a computer face (to the 80th anniversary of Ivan Edward
+  Sutherland)",http://arxiv.org/abs/1807.07824v1,2018-07-03T18:00:40Z,2018-07-03T18:00:40Z,"  The article presents the main milestones of the science and technology
+biography of Ivan Edward Sutherland. The influence of the family and the school
+on the development of its research competencies is shown, and little-known
+biographical facts explaining the evolution of his scientific interests is
+presented: from dynamic object-oriented graphic systems through systems of
+virtual reality to asynchronous circuits.
+","['\nS. O. Semerikov\n', '\nA. M. Striuk\n', '\nK. I. Slovak\n', '\nN. V. Rashevska\n', '\nYu. V. Yechkalo\n']","16 pages, 8 figures, in Ukrainian",New computer technology 16 (2018) 9-24,http://arxiv.org/abs/1807.07824v1,cs.GL,"['cs.GL', 'A.0; K.2']",,,[]
+"Navigating Diverse Data Science Learning: Critical Reflections Towards
+  Future Practice",http://arxiv.org/abs/1807.03750v1,2018-07-05T21:32:18Z,2018-07-05T21:32:18Z,"  Data Science is currently a popular field of science attracting expertise
+from very diverse backgrounds. Current learning practices need to acknowledge
+this and adapt to it. This paper summarises some experiences relating to such
+learning approaches from teaching a postgraduate Data Science module, and draws
+some learned lessons that are of relevance to others teaching Data Science.
+",['\nYehia Elkhatib\n'],,"4th Workshop on Curricula and Teaching Methods in Cloud Computing,
+  Big Data, and Data Science, 2017",http://dx.doi.org/10.1109/CloudCom.2017.58,cs.GL,"['cs.GL', 'cs.LG', 'stat.ML']",10.1109/CloudCom.2017.58,,[]
+GOTO Rankings Considered Helpful,http://arxiv.org/abs/1807.00071v2,2018-06-29T21:23:47Z,2019-04-24T22:23:47Z,"  Rankings are a fact of life. Whether or not one likes them, they exist and
+are influential. Within academia, and in computer science in particular,
+rankings not only capture our attention but also widely influence people who
+have a limited understanding of computing science research, including
+prospective students, university administrators, and policy-makers. In short,
+rankings matter. This position paper advocates for the adoption of ""GOTO
+rankings"": rankings that use Good data, are Open, Transparent, and Objective,
+and the rejection of rankings that do not meet these criteria.
+","['\nEmery Berger\n', '\nStephen M. Blackburn\n', '\nCarla Brodley\n', '\nH. V. Jagadish\n', '\nKathryn S. McKinley\n', '\nMario A. Nascimento\n', '\nMinjeong Shin\n', '\nLexing Xie\n']","Accepted, to appear in Communications of the ACM",,http://arxiv.org/abs/1807.00071v2,cs.GL,"['cs.GL', 'cs.DL']",,,[]
+How to Read a Research Compendium,http://arxiv.org/abs/1806.09525v1,2018-06-11T12:22:05Z,2018-06-11T12:22:05Z,"  Researchers spend a great deal of time reading research papers. Keshav (2012)
+provides a three-pass method to researchers to improve their reading skills.
+This article extends Keshav's method for reading a research compendium.
+Research compendia are an increasingly used form of publication, which packages
+not only the research paper's text and figures, but also all data and software
+for better reproducibility. We introduce the existing conventions for research
+compendia and suggest how to utilise their shared properties in a structured
+reading process. Unlike the original, this article is not build upon a long
+history but intends to provide guidance at the outset of an emerging practice.
+","['\nDaniel Nüst\n', '\nCarl Boettiger\n', '\nBen Marwick\n']","Manuscript repository publicly available at
+  https://github.com/nuest/how-to-read-a-research-compendium/",,http://arxiv.org/abs/1806.09525v1,cs.GL,['cs.GL'],,,[]
+"Michael John Caldwell Gordon (FRS 1994), 28 February 1948 -- 22 August
+  2017",http://arxiv.org/abs/1806.04002v2,2018-06-11T14:09:03Z,2018-08-26T09:10:53Z,"  Michael Gordon was a pioneer in the field of interactive theorem proving and
+hardware verification. In the 1970s, he had the vision of formally verifying
+system designs, proving their correctness using mathematics and logic. He
+demonstrated his ideas on real-world computer designs. His students extended
+the work to such diverse areas as the verification of floating-point
+algorithms, the verification of probabilistic algorithms and the verified
+translation of source code to correct machine code. He was elected to the Royal
+Society in 1994, and he continued to produce outstanding research until
+retirement.
+  His achievements include his work at Edinburgh University helping to create
+Edinburgh LCF, the first interactive theorem prover of its kind, and the ML
+family of functional programming languages. He adopted higher-order logic as a
+general formalism for verification, showing that it could specify hardware
+designs from the gate level right up to the processor level. It turned out to
+be an ideal formalism for many problems in computer science and mathematics.
+His tools and techniques have exerted a huge influence across the field of
+formal verification.
+",['\nLawrence C Paulson\n'],Accepted to Biographical Memoirs of Fellows of the Royal Society,"Biographical Memoirs of Fellows of the Royal Society 65 (2018),
+  89-113",http://dx.doi.org/10.1098/rsbm.2018.0019,cs.GL,"['cs.GL', 'cs.SE']",10.1098/rsbm.2018.0019,,[]
+"Technology, Propaganda, and the Limits of Human Intellect",http://arxiv.org/abs/1806.09541v1,2018-06-06T10:47:20Z,2018-06-06T10:47:20Z,"  ""Fake news"" is a recent phenomenon, but misinformation and propaganda are
+not. Our new communication technologies make it easy for us to be exposed to
+high volumes of true, false, irrelevant, and unprovable information. Future AI
+is expected to amplify the problem even more. At the same time, our brains are
+reaching their limits in handling information. How should we respond to
+propaganda? Technology can help, but relying on it alone will not suffice in
+the long term. We also need ethical policies, laws, regulations, and trusted
+authorities, including fact-checkers. However, we will not solve the problem
+without the active engagement of the educated citizen. Epistemological
+education, recognition of self biases and protection of our channels of
+communication and trusted networks are all needed to overcome the problem and
+continue our progress as democratic societies.
+",['\nPanagiotis Metaxas\n'],12 pages,,http://arxiv.org/abs/1806.09541v1,cs.GL,"['cs.GL', 'cs.CY']",,,[]
+"Synergizing Roadway Infrastructure Investment with Digital
+  Infrastructure for Infrastructure-Based Connected Vehicle Applications:
+  Review of Current Status and Future Directions",http://arxiv.org/abs/1803.05997v4,2018-03-06T05:50:35Z,2019-08-26T19:29:48Z,"  The safety, mobility, environmental, energy, and economic benefits of
+transportation systems, which are the focus of recent connected vehicle (CV)
+programs, are potentially dramatic. However, realization of these benefits
+largely hinges on the timely integration of digital technology into upcoming as
+well as existing transportation infrastructure. CVs must be enabled to
+broadcast and receive data to and from other CVs [vehicle-to-vehicle (V2V)
+communication], to and from infrastructure [vehicle-to-infrastructure (V2I)
+communication], and to and from other road users, such as bicyclists or
+pedestrians (vehicle-to-other road users communication). Further, the
+infrastructure and transportation agencies that manage V2I-focused applications
+must be able to collect, process, distribute, and archive these data quickly,
+reliably, and securely. This paper focuses on V2I applications and investigates
+current digital roadway infrastructure initiatives. It highlights the
+importance of including digital infrastructure investment alongside investment
+in more traditional transportation infrastructure to keep up with the auto
+industry push toward increasing intervehicular communication. By studying
+current CV testbeds and smart-city initiatives, this paper identifies digital
+infrastructure being used by public agencies. It also examines public agencies
+limited budgeting for digital infrastructure and finds that current expenditure
+is inadequate for realizing the potential benefits of V2I applications.
+Finally, the paper presents a set of recommendations, based on a review of
+current practices and future needs, designed to guide agencies responsible for
+transportation infrastructure. It stresses the importance of collaboration for
+establishing national and international platforms for the planning, deployment,
+and management of digital infrastructure to support connected transportation
+systems.
+","['\nSakib Mahmud Khan\n', '\nMashrur Chowdhury\n', '\nEric A Morris\n', '\nLipika Deka\n']",,Journal of Infrastructure Systems 2019,http://dx.doi.org/10.1061/(ASCE)IS.1943-555X.0000507,cs.CY,"['cs.CY', 'cs.GL']",10.1061/(ASCE)IS.1943-555X.0000507,,[]
+"|{Math, Philosophy, Programming, Writing}| = 1",http://arxiv.org/abs/1803.05998v4,2018-03-06T07:19:55Z,2018-09-19T01:20:34Z,"  Philosophical thinking has a side effect: by aiming to find the essence of a
+diverse set of phenomena, it often makes it difficult to see the differences
+between them. This can be the case with Mathematics, Programming, Writing and
+Philosophy itself. Their unified essence is having a shared understanding of
+the world helped by off-loading our cognitive efforts to suitable languages.
+",['\nAttila Egri-Nagy\n'],v4 some clarifications,,http://arxiv.org/abs/1803.05998v4,cs.CY,"['cs.CY', 'cs.GL']",,,[]
+Effectiveness of Anonymization in Double-Blind Review,http://arxiv.org/abs/1709.01609v1,2017-09-05T22:08:22Z,2017-09-05T22:08:22Z,"  Double-blind review relies on the authors' ability and willingness to
+effectively anonymize their submissions. We explore anonymization effectiveness
+at ASE 2016, OOPSLA 2016, and PLDI 2016 by asking reviewers if they can guess
+author identities. We find that 74%-90% of reviews contain no correct guess and
+that reviewers who self-identify as experts on a paper's topic are more likely
+to attempt to guess, but no more likely to guess correctly. We present our
+findings, summarize the PC chairs' comments about administering double-blind
+review, discuss the advantages and disadvantages of revealing author identities
+part of the way through the process, and conclude by advocating for the
+continued use of double-blind review.
+","['\nClaire Le Goues\n', '\nYuriy Brun\n', '\nSven Apel\n', '\nEmery Berger\n', '\nSarfraz Khurshid\n', '\nYannis Smaragdakis\n']","Effectiveness of Anonymization in Double-Blind Review. Communications
+  of the ACM. 2017","Communications of the ACM, vol. 61, no. 6, June 2018, pp. 34-37",http://dx.doi.org/10.1145/3208157,cs.DL,"['cs.DL', 'cs.GL', 'cs.SE']",10.1145/3208157,,[]
+"Re-run, Repeat, Reproduce, Reuse, Replicate: Transforming Code into
+  Scientific Contributions",http://arxiv.org/abs/1708.08205v2,2017-08-28T06:45:57Z,2018-06-18T08:26:30Z,"  Scientific code is not production software. Scientific code participates in
+the evaluation of a scientific hypothesis. This imposes specific constraints on
+the code that are often overlooked in practice. We articulate, with a small
+example, five characteristics that a scientific code in computational science
+should possess: re-runnable, repeatable, reproducible, reusable and replicable.
+","['\nFabien Benureau\nMnemosyne\n', '\nNicolas Rougier\nMnemosyne\n']","Frontiers in Neuroinformatics, Frontiers, In press",,http://dx.doi.org/10.3389/fninf.2017.00069,cs.GL,"['cs.GL', 'cs.CY']",10.3389/fninf.2017.00069,,"['Mnemosyne', 'Mnemosyne']"
+What is the next innovation after the internet of things?,http://arxiv.org/abs/1708.07160v1,2017-08-23T19:32:55Z,2017-08-23T19:32:55Z,"  The world had witnessed several generations of the Internet. Starting with
+the Fixed Internet, then the Mobile Internet, scientists now focus on many
+types of research related to the ""Thing"" Internet (or Internet of Things). The
+question is ""what is the next Internet generation after the Thing Internet?""
+This paper envisions about the Tactile Internet which could be the next
+Internet generation in the near future. The paper will introduce what is the
+tactile internet, why it could be the next future Internet, as well as the
+impact and its application in the future society. Furthermore, some challenges
+and the requirements are presented to guide further research in this near
+future field.
+",['\nHung Cao\n'],,,http://arxiv.org/abs/1708.07160v1,cs.NI,"['cs.NI', 'cs.GL']",,,[]
+Cheryl's Birthday,http://arxiv.org/abs/1708.02654v1,2017-07-27T07:44:49Z,2017-07-27T07:44:49Z,"  We present four logic puzzles and after that their solutions. Joseph Yeo
+designed 'Cheryl's Birthday'. Mike Hartley came up with a novel solution for
+'One Hundred Prisoners and a Light Bulb'. Jonathan Welton designed 'A Blind
+Guess' and 'Abby's Birthday'. Hans van Ditmarsch and Barteld Kooi authored the
+puzzlebook 'One Hundred Prisoners and a Light Bulb' that contains other
+knowledge puzzles, and that can also be found on the webpage
+http://personal.us.es/hvd/lightbulb.html dedicated to the book.
+","['\nHans van Ditmarsch\n', '\nMichael Ian Hartley\n', '\nBarteld Kooi\n', '\nJonathan Welton\n', '\nJoseph B. W. Yeo\n']","In Proceedings TARK 2017, arXiv:1707.08250","EPTCS 251, 2017, pp. 1-9",http://dx.doi.org/10.4204/EPTCS.251.1,cs.AI,"['cs.AI', 'cs.GL', 'cs.LO']",10.4204/EPTCS.251.1,,[]
+"Opening the black box of energy modelling: Strategies and lessons
+  learned",http://arxiv.org/abs/1707.08164v2,2017-07-20T08:39:29Z,2018-01-16T14:59:32Z,"  The global energy system is undergoing a major transition, and in energy
+planning and decision-making across governments, industry and academia, models
+play a crucial role. Because of their policy relevance and contested nature,
+the transparency and open availability of energy models and data are of
+particular importance. Here we provide a practical how-to guide based on the
+collective experience of members of the Open Energy Modelling Initiative
+(Openmod). We discuss key steps to consider when opening code and data,
+including determining intellectual property ownership, choosing a licence and
+appropriate modelling languages, distributing code and data, and providing
+support and building communities. After illustrating these decisions with
+examples and lessons learned from the community, we conclude that even though
+individual researchers' choices are important, institutional changes are still
+also necessary for more openness and transparency in energy research.
+","['\nStefan Pfenninger\n', '\nLion Hirth\n', '\nIngmar Schlecht\n', '\nEva Schmid\n', '\nFrauke Wiese\n', '\nTom Brown\n', '\nChris Davis\n', '\nBirgit Fais\n', '\nMatthew Gidden\n', '\nHeidi Heinrichs\n', '\nClara Heuberger\n', '\nSimon Hilpert\n', '\nUwe Krien\n', '\nCarsten Matke\n', '\nArjuna Nebel\n', '\nRobbie Morrison\n', '\nBerit Müller\n', '\nGuido Pleßmann\n', '\nMatthias Reeg\n', '\nJörn C. Richstein\n', '\nAbhishek Shivakumar\n', '\nIain Staffell\n', '\nTim Tröndle\n', '\nClemens Wingenbach\n']","9 pages, 1 figure","Energy Strategy Reviews, Volume 19, January 2018, Pages 63-71",http://dx.doi.org/10.1016/j.esr.2017.12.002,cs.CY,"['cs.CY', 'cs.GL']",10.1016/j.esr.2017.12.002,,[]
+Paths to Unconventional Computing: Causality in Complexity,http://arxiv.org/abs/1706.08803v1,2017-06-01T03:31:20Z,2017-06-01T03:31:20Z,"  I describe my path to unconventionality in my exploration of theoretical and
+applied aspects of computation towards revealing the algorithmic and
+reprogrammable properties and capabilities of the world, in particular related
+to applications of algorithmic complexity in reshaping molecular biology and
+tackling the challenges of causality in science.
+",['\nHector Zenil\n'],"Extended version of an invited contribution to a special issue of the
+  journal of Progress in Biophysics & Molecular Biology (Elsevier)",,http://arxiv.org/abs/1706.08803v1,cs.GL,['cs.GL'],,,[]
+Kalman Filtering of Distributed Time Series,http://arxiv.org/abs/1703.07194v1,2017-03-21T12:57:26Z,2017-03-21T12:57:26Z,"  This paper aims to introduce an application to Kalman Filtering Theory, which
+is rather unconventional. Recent experiments have shown that many natural
+phenomena, especially from ecology or meteorology, could be monitored and
+predicted more accurately when accounting their evolution over some
+geographical area. Thus, the signals they provide are gathered together into a
+collection of distributed time series. Despite the common sense, such time
+series are more or less correlated each other. Instead of processing each time
+series independently, their collection can constitute the set of measurable
+states provided by some open system. Modeling and predicting the system states
+can take benefit from the family of Kalman filtering algorithms. The article
+describes an adaptation of basic Kalman filter to the context of distributed
+signals collections and completes with an application coming from Meteorology.
+","['\nDan Stefanoiu\n', '\nJanetta Culita\n']","7 pages, 9 figures, International Conference on Control Systems and
+  Computer Science 2009",,http://arxiv.org/abs/1703.07194v1,cs.GL,['cs.GL'],,,[]
+Research Methods in Computer Science: The Challenges and Issues,http://arxiv.org/abs/1703.04080v2,2017-03-12T08:10:59Z,2017-03-15T07:06:07Z,"  Research methods are essential parts in conducting any research project.
+Although they have been theorized and summarized based on best practices, every
+field of science requires an adaptation of the overall approaches to perform
+research activities. In addition, any specific research needs a particular
+adjustment to the generalized approach and specializing them to suit the
+project in hand. However, unlike most well-established science disciplines,
+computing research is not supported by well-defined, globally accepted methods.
+This is because of its infancy and ambiguity in its definition, on one hand,
+and its extensive coverage and overlap with other fields, on the other hand.
+This article discusses the research methods in science and engineering in
+general and in computing in particular. It shows that despite several special
+parameters that make research in computing rather unique, it still follows the
+same steps that any other scientific research would do. The article also shows
+the particularities that researchers need to consider when they conduct
+research in this field.
+",['\nHossein Hassani\n'],,,http://arxiv.org/abs/1703.04080v2,cs.GL,['cs.GL'],,,[]
+Ethical Considerations in Artificial Intelligence Courses,http://arxiv.org/abs/1701.07769v1,2017-01-26T16:52:22Z,2017-01-26T16:52:22Z,"  The recent surge in interest in ethics in artificial intelligence may leave
+many educators wondering how to address moral, ethical, and philosophical
+issues in their AI courses. As instructors we want to develop curriculum that
+not only prepares students to be artificial intelligence practitioners, but
+also to understand the moral, ethical, and philosophical impacts that
+artificial intelligence will have on society. In this article we provide
+practical case studies and links to resources for use by AI educators. We also
+provide concrete suggestions on how to integrate AI ethics into a general
+artificial intelligence course and how to teach a stand-alone artificial
+intelligence ethics course.
+","['\nEmanuelle Burton\n', '\nJudy Goldsmith\n', '\nSven Koenig\n', '\nBenjamin Kuipers\n', '\nNicholas Mattei\n', '\nToby Walsh\n']","29 pages including all case studies and links to video media on
+  YouTube",,http://arxiv.org/abs/1701.07769v1,cs.AI,"['cs.AI', 'cs.CY', 'cs.GL', 'K.3.2; K.4.1; K.7.m']",,,[]
+First Study on Data Readiness Level,http://arxiv.org/abs/1702.02107v1,2017-01-18T15:23:41Z,2017-01-18T15:23:41Z,"  We introduce the idea of Data Readiness Level (DRL) to measure the relative
+richness of data to answer specific questions often encountered by data
+scientists. We first approach the problem in its full generality explaining its
+desired mathematical properties and applications and then we propose and study
+two DRL metrics. Specifically, we define DRL as a function of at least four
+properties of data: Noisiness, Believability, Relevance, and Coherence. The
+information-theoretic based metrics, Cosine Similarity and Document Disparity,
+are proposed as indicators of Relevance and Coherence for a piece of data. The
+proposed metrics are validated through a text-based experiment using Twitter
+data.
+","['\nHui Guan\n', '\nThanos Gentimis\n', '\nHamid Krim\n', '\nJames Keiser\n']",9 pages,,http://arxiv.org/abs/1702.02107v1,cs.IR,"['cs.IR', 'cs.GL']",,,[]
+Dialogue Concerning The Two Chief World Views,http://arxiv.org/abs/1605.08639v1,2016-05-26T19:36:40Z,2016-05-26T19:36:40Z,"  In 1632, Galileo Galilei wrote a book called \textit{Dialogue Concerning the
+Two Chief World Systems} which compared the new Copernican model of the
+universe with the old Ptolemaic model. His book took the form of a dialogue
+between three philosophers, Salviati, a proponent of the Copernican model,
+Simplicio, a proponent of the Ptolemaic model, and Sagredo, who was initially
+open-minded and neutral. In this paper, I am going to use Galileo's idea to
+present a dialogue between three modern philosophers, Mr. Spock, a proponent of
+the view that $\mathsf{P} \neq \mathsf{NP}$, Professor Simpson, a proponent of
+the view that $\mathsf{P} = \mathsf{NP}$, and Judge Wapner, who is initially
+open-minded and neutral.
+",['\nCraig Alan Feinstein\n'],5 pages,"Progress in Physics, 2016 (vol. 12), issue 3, pp. 280-283",http://arxiv.org/abs/1605.08639v1,cs.GL,['cs.GL'],,,[]
+Philosophical Solution to P=?NP: P is Equal to NP,http://arxiv.org/abs/1603.06018v1,2016-03-19T00:02:51Z,2016-03-19T00:02:51Z,"  The P=?NP problem is philosophically solved by showing P is equal to NP in
+the random access with unit multiply (MRAM) model. It is shown that the MRAM
+model empirically best models computation hardness. The P=?NP problem is shown
+to be a scientific rather than a mathematical problem. The assumptions involved
+in the current definition of the P?=NP problem as a problem involving non
+deterministic Turing Machines (NDTMs) from axiomatic automata theory are
+criticized. The problem is also shown to be neither a problem in pure nor
+applied mathematics. The details of The MRAM model and the well known Hartmanis
+and Simon construction that shows how to code and simulate NDTMs on MRAM
+machines is described. Since the computation power of MRAMs is the same as
+NDTMs, P is equal to NP. The paper shows that the justification for the NDTM
+P?=NP problem using a letter from Kurt Godel to John Von Neumann is incorrect
+by showing Von Neumann explicitly rejected automata models of computation
+hardness and used his computer architecture for modeling computation that is
+exactly the MRAM model. The paper argues that Deolalikar's scientific solution
+showing P not equal to NP if assumptions from statistical physics are used,
+needs to be revisited.
+",['\nSteven Meyer\n'],"9 pages, 25 references",,http://arxiv.org/abs/1603.06018v1,cs.GL,"['cs.GL', 'F.0']",,,[]
+"Bouncing Towers move faster than Hanoi Towers, but still require
+  exponential time",http://arxiv.org/abs/1602.03934v2,2016-02-12T00:19:42Z,2016-03-11T19:54:55Z,"  The problem of the Hanoi Tower is a classic exercise in recursive
+programming: the solution has a simple recursive definition, and its complexity
+and the matching lower bound are the solution of a simple recursive function
+(the solution is so easy that most students memorize it and regurgitate it at
+exams without truly understanding it). We describe how some very minor changes
+in the rules of the Hanoi Tower yield various increases of complexity in the
+solution, so that they require a deeper analysis than the classical Hanoi Tower
+problem while still yielding exponential solutions. In particular, we analyze
+the problem fo the Bouncing Tower, where just changing the insertion and
+extraction position from the top to the middle of the tower results in a
+surprising increase of complexity in the solution: such a tower of $n$ disks
+can be optimally moved in $\sqrt{3}^n$ moves for $n$ even (i.e. less than a
+Hanoi Tower of same height), via $5$ recursive functions (or, equivalently, one
+recursion function with $5$ states).
+",['\nJérémy Barbay\n'],"18 pages and many figures, one appendix with the disk pile problem,
+  code in Python",,http://arxiv.org/abs/1602.03934v2,cs.GL,['cs.GL'],,,[]
+The Machine as Data: A Computational View of Emergence and Definability,http://arxiv.org/abs/1506.06270v1,2015-06-20T17:07:55Z,2015-06-20T17:07:55Z,"  Turing's (1936) paper on computable numbers has played its role in
+underpinning different perspectives on the world of information. On the one
+hand, it encourages a digital ontology, with a perceived flatness of
+computational structure comprehensively hosting causality at the physical level
+and beyond. On the other (the main point of Turing's paper), it can give an
+insight into the way in which higher order information arises and leads to loss
+of computational control - while demonstrating how the control can be
+re-established, in special circumstances, via suitable type reductions. We
+examine the classical computational framework more closely than is usual,
+drawing out lessons for the wider application of information-theoretical
+approaches to characterizing the real world. The problem which arises across a
+range of contexts is the characterizing of the balance of power between the
+complexity of informational structure (with emergence, chaos, randomness and
+'big data' prominently on the scene) and the means available (simulation,
+codes, statistical sampling, human intuition, semantic constructs) to bring
+this information back into the computational fold. We proceed via appropriate
+mathematical modelling to a more coherent view of the computational structure
+of information, relevant to a wide spectrum of areas of investigation.
+",['\nS. Barry Cooper\n'],"35 pages, to appear in journal 'Synthese'",,http://arxiv.org/abs/1506.06270v1,math.LO,"['math.LO', 'cs.GL', '03D99']",,,[]
+Writing and Publishing Scientific Articles in Computer Science,http://arxiv.org/abs/1506.00555v1,2015-06-01T16:09:53Z,2015-06-01T16:09:53Z,"  Over 15 years of teaching, advising students and coordinating scientific
+research activities and projects in computer science, we have observed the
+difficulties of students to write scientific papers to present the results of
+their research practices. In addition, they repeatedly have doubts about the
+publishing process. In this article we propose a conceptual framework to
+support the writing and publishing of scientific papers in computer science,
+providing a kind of guide for computer science students to effectively present
+the results of their research practices, particularly for experimental
+research.
+",['\nWladmir Cardoso Brandão\n'],"2 pages, 2 figures, Brazilian Portuguese",,http://arxiv.org/abs/1506.00555v1,cs.GL,"['cs.GL', 'A.1; K.3.2']",,,[]
+A Preliminary Review of Influential Works in Data-Driven Discovery,http://arxiv.org/abs/1503.08776v2,2015-03-30T18:17:30Z,2015-08-20T16:37:13Z,"  The Gordon and Betty Moore Foundation ran an Investigator Competition as part
+of its Data-Driven Discovery Initiative in 2014. We received about 1,100
+applications and each applicant had the opportunity to list up to five
+influential works in the general field of ""Big Data"" for scientific discovery.
+We collected nearly 5,000 references and 53 works were cited at least six
+times. This paper contains our preliminary findings.
+","['\nMark Stalzer\n', '\nChris Mentzel\n']",,,http://arxiv.org/abs/1503.08776v2,cs.DL,"['cs.DL', 'cs.GL']",,,[]
+The Karlskrona manifesto for sustainability design,http://arxiv.org/abs/1410.6968v4,2014-10-25T22:43:33Z,2015-05-10T16:23:39Z,"  Sustainability is a central concern for our society, and software systems
+increasingly play a central role in it. As designers of software technology, we
+cause change and are responsible for the effects of our design choices. We
+recognize that there is a rapidly increasing awareness of the fundamental need
+and desire for a more sustainable world, and there is a lot of genuine
+goodwill. However, this alone will be ineffective unless we come to understand
+and address our persistent misperceptions. The Karlskrona Manifesto for
+Sustainability Design aims to initiate a much needed conversation in and beyond
+the software community by highlighting such perceptions and proposing a set of
+fundamental principles for sustainability design.
+","['\nChristoph Becker\n', '\nRuzanna Chitchyan\n', '\nLeticia Duboc\n', '\nSteve Easterbrook\n', '\nMartin Mahaux\n', '\nBirgit Penzenstadler\n', '\nGuillermo Rodriguez-Navas\n', '\nCamille Salinesi\n', '\nNorbert Seyff\n', '\nColin Venters\n', '\nCoral Calero\n', '\nSedef Akinli Kocak\n', '\nStefanie Betz\n']",,,http://arxiv.org/abs/1410.6968v4,cs.SE,"['cs.SE', 'cs.GL']",,,[]
+Typologies of Computation and Computational Models,http://arxiv.org/abs/1312.2447v1,2013-12-09T14:35:08Z,2013-12-09T14:35:08Z,"  We need much better understanding of information processing and computation
+as its primary form. Future progress of new computational devices capable of
+dealing with problems of big data, internet of things, semantic web, cognitive
+robotics and neuroinformatics depends on the adequate models of computation. In
+this article we first present the current state of the art through
+systematization of existing models and mechanisms, and outline basic structural
+framework of computation. We argue that defining computation as information
+processing, and given that there is no information without (physical)
+representation, the dynamics of information on the fundamental level is
+physical/ intrinsic/ natural computation. As a special case, intrinsic
+computation is used for designed computation in computing machinery. Intrinsic
+natural computation occurs on variety of levels of physical processes,
+containing the levels of computation of living organisms (including highly
+intelligent animals) as well as designed computational devices. The present
+article offers a typology of current models of computation and indicates future
+paths for the advancement of the field; both by the development of new
+computational models and by learning from nature how to better compute using
+different mechanisms of intrinsic computation.
+","['\nMark Burgin\n', '\nGordana Dodig-Crnkovic\n']",,,http://arxiv.org/abs/1312.2447v1,cs.GL,['cs.GL'],,,[]
+Les connaissances de la toile,http://arxiv.org/abs/1312.3213v1,2013-12-08T19:50:05Z,2013-12-08T19:50:05Z,"  How to manage knowledge on the Web.
+","['\nSerge Abiteboul\nLSV, INRIA Saclay - Ile de France\n']","in French; Cultures num\'eriques, \'education aux m\'edias et \`a
+  l'information (2013)",,http://arxiv.org/abs/1312.3213v1,cs.GL,['cs.GL'],,,"['LSV, INRIA Saclay - Ile de France']"
+"Epistemology of Modeling and Simulation: How can we gain Knowledge from
+  Simulations?",http://arxiv.org/abs/1306.5215v1,2013-06-21T19:15:51Z,2013-06-21T19:15:51Z,"  Epistemology is the branch of philosophy that deals with gaining knowledge.
+It is closely related to ontology. The branch that deals with questions like
+""What is real?"" and ""What do we know?"" as it provides these components. When
+using modeling and simulation, we usually imply that we are doing so to either
+apply knowledge, in particular when we are using them for training and
+teaching, or that we want to gain new knowledge, for example when doing
+analysis or conducting virtual experiments. This paper looks at the history of
+science to give a context to better cope with the question, how we can gain
+knowledge from simulation. It addresses aspects of computability and the
+general underlying mathematics, and applies the findings to validation and
+verification and development of federations. As simulations are understood as
+computable executable hypotheses, validation can be understood as hypothesis
+testing and theory building. The mathematical framework allows furthermore
+addressing some challenges when developing federations and the potential
+introduction of contradictions when composing different theories, as they are
+represented by the federated simulation systems.
+","['\nAndreas Tolk\n', '\nSaikou Y. Diallo\n', '\nJose J. Padilla\n', '\nRoss Gore\n']",MODSIM World 2013,,http://arxiv.org/abs/1306.5215v1,cs.GL,"['cs.GL', 'cs.AI', '00']",,,[]
+"Rethinking Abstractions for Big Data: Why, Where, How, and What",http://arxiv.org/abs/1306.3295v1,2013-06-14T05:11:34Z,2013-06-14T05:11:34Z,"  Big data refers to large and complex data sets that, under existing
+approaches, exceed the capacity and capability of current compute platforms,
+systems software, analytical tools and human understanding. Numerous lessons on
+the scalability of big data can already be found in asymptotic analysis of
+algorithms and from the high-performance computing (HPC) and applications
+communities. However, scale is only one aspect of current big data trends;
+fundamentally, current and emerging problems in big data are a result of
+unprecedented complexity--in the structure of the data and how to analyze it,
+in dealing with unreliability and redundancy, in addressing the human factors
+of comprehending complex data sets, in formulating meaningful analyses, and in
+managing the dense, power-hungry data centers that house big data.
+  The computer science solution to complexity is finding the right
+abstractions, those that hide as much triviality as possible while revealing
+the essence of the problem that is being addressed. The ""big data challenge""
+has disrupted computer science by stressing to the very limits the familiar
+abstractions which define the relevant subfields in data analysis, data
+management and the underlying parallel systems. As a result, not enough of
+these challenges are revealed by isolating abstractions in a traditional
+software stack or standard algorithmic and analytical techniques, and attempts
+to address complexity either oversimplify or require low-level management of
+details. The authors believe that the abstractions for big data need to be
+rethought, and this reorganization needs to evolve and be sustained through
+continued cross-disciplinary collaboration.
+","['\nMary Hall\n', '\nRobert M. Kirby\n', '\nFeifei Li\n', '\nMiriah Meyer\n', '\nValerio Pascucci\n', '\nJeff M. Phillips\n', '\nRob Ricci\n', '\nJacobus Van der Merwe\n', '\nSuresh Venkatasubramanian\n']","8 pages, 1 figure",,http://arxiv.org/abs/1306.3295v1,cs.GL,"['cs.GL', 'cs.DC']",,,[]
+The Mathematician's Bias - and the Return to Embodied Computation,http://arxiv.org/abs/1304.5385v1,2013-04-19T12:01:24Z,2013-04-19T12:01:24Z,"  There are growing uncertainties surrounding the classical model of
+computation established by G\""odel, Church, Kleene, Turing and others in the
+1930s onwards. The mismatch between the Turing machine conception, and the
+experiences of those more practically engaged in computing, has parallels with
+the wider one between science and those working creatively or intuitively out
+in the 'real' world. The scientific outlook is more flexible and basic than
+some understand or want to admit. The science is subject to limitations which
+threaten careers. We look at embodiment and disembodiment of computation as the
+key to the mismatch, and find Turing had the right idea all along - amongst a
+productive confusion of ideas about computation in the real and the abstract
+worlds.
+",['\nS. Barry Cooper\n'],,"In ""A Computable Universe - Understanding and Exploring Nature as
+  Computation"" (Ed. Hector Zenil), World Scientific, 2013, pp. 125-142",http://arxiv.org/abs/1304.5385v1,math.LO,"['math.LO', 'cs.GL']",,,[]
+The Recomputation Manifesto,http://arxiv.org/abs/1304.3674v1,2013-04-12T16:29:42Z,2013-04-12T16:29:42Z,"  Replication of scientific experiments is critical to the advance of science.
+Unfortunately, the discipline of Computer Science has never treated replication
+seriously, even though computers are very good at doing the same thing over and
+over again. Not only are experiments rarely replicated, they are rarely even
+replicable in a meaningful way. Scientists are being encouraged to make their
+source code available, but this is only a small step. Even in the happy event
+that source code can be built and run successfully, running code is a long way
+away from being able to replicate the experiment that code was used for. I
+propose that the discipline of Computer Science must embrace replication of
+experiments as standard practice. I propose that the only credible technique to
+make experiments truly replicable is to provide copies of virtual machines in
+which the experiments are validated to run. I propose that tools and
+repositories should be made available to make this happen. I propose to be one
+of those who makes it happen.
+",['\nIan P. Gent\n'],"Unpublished position paper, Version 1.9479, http://recomputation.org",,http://arxiv.org/abs/1304.3674v1,cs.GL,"['cs.GL', 'cs.DL']",,,[]
+Grasping Complexity,http://arxiv.org/abs/1303.3855v1,2013-03-15T18:40:15Z,2013-03-15T18:40:15Z,"  The century of complexity has come. The face of science has changed.
+Surprisingly, when we start asking about the essence of these changes and then
+critically analyse the answers, the result are mostly discouraging. Most of the
+answers are related to the properties that have been in the focus of scientific
+research already for more than a century (like non-linearity). This paper is
+Preface to the special issue ""Grasping Complexity"" of the journal ""Computers
+and Mathematics with Applications"". We analyse the change of era in science,
+its reasons and main changes in scientific activity and give a brief review of
+the papers in the issue.
+","['\nA. N. Gorban\n', '\nG. S. Yablonsky\n']","8 pages, 3 figures, bibliography 52 items",Computers and Mathematics with Applications 65 (2013) 1421-1426,http://dx.doi.org/10.1016/j.camwa.2013.04.023,cs.GL,['cs.GL'],10.1016/j.camwa.2013.04.023,,[]
+NanoInfoBio: A case-study in interdisciplinary research,http://arxiv.org/abs/1211.5508v1,2012-11-23T13:55:44Z,2012-11-23T13:55:44Z,"  A significant amount of high-impact contemporary scientific research occurs
+where biology, computer science, engineering and chemistry converge. Although
+programmes have been put in place to support such work, the complex dynamics of
+interdisciplinarity are still poorly understood. In this paper we highlight
+potential barriers to effective research across disciplines, and suggest, using
+a case study, possible mechanisms for removing these impediments.
+","['\nNaomi Jacobs\n', '\nMartyn Amos\n']","Appears in Kettunen, J., Hyrkkanen, U. & Lehto, A. (Eds.) Applied
+  Research and Professional Education, p.p. 289-309. Turku University of
+  Applied Sciences (2012). http://julkaisut.turkuamk.fi/isbn9789522162519.pdf.
+  arXiv admin note: substantial text overlap with arXiv:1012.4170",,http://arxiv.org/abs/1211.5508v1,cs.GL,['cs.GL'],,,[]
+Le droit du numérique : une histoire à préserver,http://arxiv.org/abs/1210.3597v1,2012-10-12T18:48:58Z,2012-10-12T18:48:58Z,"  Although the history of informatics is recent, this field poses unusual
+problems with respect to its preservation. These problems are amplified by
+legal issues, digital law being in itself a subject matter whose history is
+also worth presenting in a computer science museum. The purpose of this paper
+is to present a quick overview of the evolution of law regarding digital
+matters, from an historical perspective as well as with respect to the
+preservation and presentation of the works.
+","['\nFrançois Pellegrini\nLaBRI, INRIA Bordeaux - Sud-Ouest\n', '\nSébastien Canevet\nCERSA\n']",No. RR-8100 (2012),,http://arxiv.org/abs/1210.3597v1,cs.GL,['cs.GL'],,,"['LaBRI, INRIA Bordeaux - Sud-Ouest', 'CERSA']"
