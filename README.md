@@ -13,6 +13,16 @@ This is a repository for a graduate data science project fulfilling the requirem
 
 [purpose and scope of project]
 
+## Methodology
+
+### Data Sources
+[arXiv API]
+
+## Results
+
+
+## Paper
+
 ## Navigating the Repository
 
 * `datasets` - all dataset files including:
@@ -25,10 +35,4 @@ This is a repository for a graduate data science project fulfilling the requirem
 * `r_script` - Vector Autoregression model script
 * `scripts`
 
-## Methodology
 
-
-## Results
-
-
-## Paper
